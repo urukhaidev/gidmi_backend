@@ -1,0 +1,6490 @@
+{
+  "summary": {
+    "cities": 925,
+    "errors": 0,
+    "sum_tripster_count": 34316,
+    "sum_stored_experience_count": 30726,
+    "source_files": [
+      "tripster_city_counts_latest.json",
+      "tripster_city_counts_yerevan_retry.json"
+    ]
+  },
+  "cities": [
+    {
+      "city_id": 3,
+      "slug": "Paris",
+      "name_ru": "Париж",
+      "stored_experience_count": 378,
+      "tripster_count": 503
+    },
+    {
+      "city_id": 4,
+      "slug": "Rome",
+      "name_ru": "Рим",
+      "stored_experience_count": 382,
+      "tripster_count": 466
+    },
+    {
+      "city_id": 5,
+      "slug": "Vienna",
+      "name_ru": "Вена",
+      "stored_experience_count": 94,
+      "tripster_count": 131
+    },
+    {
+      "city_id": 6,
+      "slug": "Barcelona",
+      "name_ru": "Барселона",
+      "stored_experience_count": 248,
+      "tripster_count": 336
+    },
+    {
+      "city_id": 7,
+      "slug": "Prague",
+      "name_ru": "Прага",
+      "stored_experience_count": 188,
+      "tripster_count": 246
+    },
+    {
+      "city_id": 8,
+      "slug": "Riga",
+      "name_ru": "Рига",
+      "stored_experience_count": 56,
+      "tripster_count": 63
+    },
+    {
+      "city_id": 15,
+      "slug": "Helsinki",
+      "name_ru": "Хельсинки",
+      "stored_experience_count": 19,
+      "tripster_count": 30
+    },
+    {
+      "city_id": 16,
+      "slug": "London",
+      "name_ru": "Лондон",
+      "stored_experience_count": 114,
+      "tripster_count": 148
+    },
+    {
+      "city_id": 18,
+      "slug": "Istanbul",
+      "name_ru": "Стамбул",
+      "stored_experience_count": 586,
+      "tripster_count": 691
+    },
+    {
+      "city_id": 19,
+      "slug": "Budapest",
+      "name_ru": "Будапешт",
+      "stored_experience_count": 140,
+      "tripster_count": 176
+    },
+    {
+      "city_id": 21,
+      "slug": "Munich",
+      "name_ru": "Мюнхен",
+      "stored_experience_count": 58,
+      "tripster_count": 70
+    },
+    {
+      "city_id": 22,
+      "slug": "Amsterdam",
+      "name_ru": "Амстердам",
+      "stored_experience_count": 111,
+      "tripster_count": 137
+    },
+    {
+      "city_id": 23,
+      "slug": "Berlin",
+      "name_ru": "Берлин",
+      "stored_experience_count": 60,
+      "tripster_count": 90
+    },
+    {
+      "city_id": 24,
+      "slug": "Venice",
+      "name_ru": "Венеция",
+      "stored_experience_count": 136,
+      "tripster_count": 148
+    },
+    {
+      "city_id": 25,
+      "slug": "Vilnius",
+      "name_ru": "Вильнюс",
+      "stored_experience_count": 35,
+      "tripster_count": 41
+    },
+    {
+      "city_id": 26,
+      "slug": "Tallinn",
+      "name_ru": "Таллин",
+      "stored_experience_count": 54,
+      "tripster_count": 65
+    },
+    {
+      "city_id": 27,
+      "slug": "Brussels",
+      "name_ru": "Брюссель",
+      "stored_experience_count": 22,
+      "tripster_count": 26
+    },
+    {
+      "city_id": 28,
+      "slug": "Frankfurt",
+      "name_ru": "Франкфурт",
+      "stored_experience_count": 3,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 29,
+      "slug": "Valletta",
+      "name_ru": "Валлетта",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 30,
+      "slug": "Reykjavik",
+      "name_ru": "Рейкьявик",
+      "stored_experience_count": 22,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 31,
+      "slug": "Antwerpen",
+      "name_ru": "Антверпен",
+      "stored_experience_count": 11,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 32,
+      "slug": "Oslo",
+      "name_ru": "Осло",
+      "stored_experience_count": 13,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 33,
+      "slug": "Brugge",
+      "name_ru": "Брюгге",
+      "stored_experience_count": 8,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 34,
+      "slug": "Lisbon",
+      "name_ru": "Лиссабон",
+      "stored_experience_count": 191,
+      "tripster_count": 247
+    },
+    {
+      "city_id": 35,
+      "slug": "Granada",
+      "name_ru": "Гранада",
+      "stored_experience_count": 7,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 37,
+      "slug": "Turku",
+      "name_ru": "Турку",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 42,
+      "slug": "Tel_Aviv",
+      "name_ru": "Тель-Авив",
+      "stored_experience_count": 28,
+      "tripster_count": 34
+    },
+    {
+      "city_id": 43,
+      "slug": "Ho_Chi_Minh",
+      "name_ru": "Хошимин",
+      "stored_experience_count": 46,
+      "tripster_count": 43
+    },
+    {
+      "city_id": 44,
+      "slug": "New_York",
+      "name_ru": "Нью-Йорк",
+      "stored_experience_count": 46,
+      "tripster_count": 65
+    },
+    {
+      "city_id": 45,
+      "slug": "Shanghai",
+      "name_ru": "Шанхай",
+      "stored_experience_count": 103,
+      "tripster_count": 104
+    },
+    {
+      "city_id": 46,
+      "slug": "Madrid",
+      "name_ru": "Мадрид",
+      "stored_experience_count": 95,
+      "tripster_count": 119
+    },
+    {
+      "city_id": 49,
+      "slug": "Stockholm",
+      "name_ru": "Стокгольм",
+      "stored_experience_count": 37,
+      "tripster_count": 42
+    },
+    {
+      "city_id": 52,
+      "slug": "Toronto",
+      "name_ru": "Торонто",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 53,
+      "slug": "Jerusalem",
+      "name_ru": "Иерусалим",
+      "stored_experience_count": 40,
+      "tripster_count": 47
+    },
+    {
+      "city_id": 54,
+      "slug": "Florence",
+      "name_ru": "Флоренция",
+      "stored_experience_count": 203,
+      "tripster_count": 233
+    },
+    {
+      "city_id": 55,
+      "slug": "San_Francisco",
+      "name_ru": "Сан-Франциско",
+      "stored_experience_count": 12,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 56,
+      "slug": "Guangzhou",
+      "name_ru": "Гуанчжоу",
+      "stored_experience_count": 38,
+      "tripster_count": 34
+    },
+    {
+      "city_id": 57,
+      "slug": "Tokyo",
+      "name_ru": "Токио",
+      "stored_experience_count": 168,
+      "tripster_count": 181
+    },
+    {
+      "city_id": 58,
+      "slug": "Sofia",
+      "name_ru": "София",
+      "stored_experience_count": 19,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 59,
+      "slug": "Sydney",
+      "name_ru": "Сидней",
+      "stored_experience_count": 15,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 60,
+      "slug": "Tbilisi",
+      "name_ru": "Тбилиси",
+      "stored_experience_count": 659,
+      "tripster_count": 586
+    },
+    {
+      "city_id": 61,
+      "slug": "Tashkent",
+      "name_ru": "Ташкент",
+      "stored_experience_count": 220,
+      "tripster_count": 161
+    },
+    {
+      "city_id": 62,
+      "slug": "Cologne",
+      "name_ru": "Кёльн",
+      "stored_experience_count": 19,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 64,
+      "slug": "Haifa",
+      "name_ru": "Хайфа",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 65,
+      "slug": "Vitebsk",
+      "name_ru": "Витебск",
+      "stored_experience_count": 32,
+      "tripster_count": 34
+    },
+    {
+      "city_id": 66,
+      "slug": "Luxembourg",
+      "name_ru": "Люксембург",
+      "stored_experience_count": 10,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 67,
+      "slug": "Bar",
+      "name_ru": "Бар",
+      "stored_experience_count": 6,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 68,
+      "slug": "Pattaya",
+      "name_ru": "Паттайя",
+      "stored_experience_count": 91,
+      "tripster_count": 134
+    },
+    {
+      "city_id": 73,
+      "slug": "Chiang_Mai",
+      "name_ru": "Чиангмай",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 74,
+      "slug": "Bukhara",
+      "name_ru": "Бухара",
+      "stored_experience_count": 79,
+      "tripster_count": 82
+    },
+    {
+      "city_id": 75,
+      "slug": "Dublin",
+      "name_ru": "Дублин",
+      "stored_experience_count": 9,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 76,
+      "slug": "Perugia",
+      "name_ru": "Перуджа",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 77,
+      "slug": "Assisi",
+      "name_ru": "Ассизи",
+      "stored_experience_count": 3,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 78,
+      "slug": "Skopje",
+      "name_ru": "Скопье",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 80,
+      "slug": "Budva",
+      "name_ru": "Будва",
+      "stored_experience_count": 61,
+      "tripster_count": 64
+    },
+    {
+      "city_id": 81,
+      "slug": "Alicante",
+      "name_ru": "Аликанте",
+      "stored_experience_count": 18,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 82,
+      "slug": "Los_Angeles",
+      "name_ru": "Лос-Анджелес",
+      "stored_experience_count": 14,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 83,
+      "slug": "Antalya",
+      "name_ru": "Анталья",
+      "stored_experience_count": 316,
+      "tripster_count": 354
+    },
+    {
+      "city_id": 84,
+      "slug": "Verona",
+      "name_ru": "Верона",
+      "stored_experience_count": 41,
+      "tripster_count": 44
+    },
+    {
+      "city_id": 85,
+      "slug": "Casablanca",
+      "name_ru": "Касабланка",
+      "stored_experience_count": 46,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 86,
+      "slug": "Copenhagen",
+      "name_ru": "Копенгаген",
+      "stored_experience_count": 27,
+      "tripster_count": 38
+    },
+    {
+      "city_id": 87,
+      "slug": "Kathmandu",
+      "name_ru": "Катманду",
+      "stored_experience_count": 27,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 92,
+      "slug": "Dubai",
+      "name_ru": "Дубай",
+      "stored_experience_count": 267,
+      "tripster_count": 360
+    },
+    {
+      "city_id": 93,
+      "slug": "Milan",
+      "name_ru": "Милан",
+      "stored_experience_count": 131,
+      "tripster_count": 137
+    },
+    {
+      "city_id": 94,
+      "slug": "Gouda",
+      "name_ru": "Гауда",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 95,
+      "slug": "Nuremberg",
+      "name_ru": "Нюрнберг",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 98,
+      "slug": "Acre",
+      "name_ru": "Акко",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 99,
+      "slug": "Bangkok",
+      "name_ru": "Бангкок",
+      "stored_experience_count": 112,
+      "tripster_count": 134
+    },
+    {
+      "city_id": 101,
+      "slug": "Geneva",
+      "name_ru": "Женева",
+      "stored_experience_count": 12,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 102,
+      "slug": "Oxford",
+      "name_ru": "Оксфорд",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 103,
+      "slug": "Bali",
+      "name_ru": "Бали",
+      "stored_experience_count": 162,
+      "tripster_count": 171
+    },
+    {
+      "city_id": 108,
+      "slug": "Bouillon",
+      "name_ru": "Буйон",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 110,
+      "slug": "Beijing",
+      "name_ru": "Пекин",
+      "stored_experience_count": 215,
+      "tripster_count": 209
+    },
+    {
+      "city_id": 111,
+      "slug": "Melbourne",
+      "name_ru": "Мельбурн",
+      "stored_experience_count": 10,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 112,
+      "slug": "Warsaw",
+      "name_ru": "Варшава",
+      "stored_experience_count": 9,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 114,
+      "slug": "Valencia",
+      "name_ru": "Валенсия",
+      "stored_experience_count": 38,
+      "tripster_count": 44
+    },
+    {
+      "city_id": 116,
+      "slug": "Jurmala",
+      "name_ru": "Юрмала",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 117,
+      "slug": "Rio_de_Janeiro",
+      "name_ru": "Рио-де-Жанейро",
+      "stored_experience_count": 33,
+      "tripster_count": 43
+    },
+    {
+      "city_id": 120,
+      "slug": "Porto",
+      "name_ru": "Порту",
+      "stored_experience_count": 50,
+      "tripster_count": 56
+    },
+    {
+      "city_id": 121,
+      "slug": "Leiden",
+      "name_ru": "Лейден",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 122,
+      "slug": "Malaga",
+      "name_ru": "Малага",
+      "stored_experience_count": 24,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 123,
+      "slug": "Yokohama",
+      "name_ru": "Йокогама",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 124,
+      "slug": "Edinburgh",
+      "name_ru": "Эдинбург",
+      "stored_experience_count": 10,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 125,
+      "slug": "Vancouver",
+      "name_ru": "Ванкувер",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 126,
+      "slug": "Delft",
+      "name_ru": "Делфт",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 127,
+      "slug": "Sintra",
+      "name_ru": "Синтра",
+      "stored_experience_count": 10,
+      "tripster_count": 11
+    },
+    {
+      "city_id": 128,
+      "slug": "Bremen",
+      "name_ru": "Бремен",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 129,
+      "slug": "Bogota",
+      "name_ru": "Богота",
+      "stored_experience_count": 9,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 130,
+      "slug": "Brno",
+      "name_ru": "Брно",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 132,
+      "slug": "Hannover",
+      "name_ru": "Ганновер",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 133,
+      "slug": "Eindhoven",
+      "name_ru": "Эйндховен",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 134,
+      "slug": "Naples",
+      "name_ru": "Неаполь",
+      "stored_experience_count": 76,
+      "tripster_count": 94
+    },
+    {
+      "city_id": 135,
+      "slug": "Tenerife",
+      "name_ru": "Тенерифе",
+      "stored_experience_count": 50,
+      "tripster_count": 52
+    },
+    {
+      "city_id": 136,
+      "slug": "Thessaloniki",
+      "name_ru": "Салоники",
+      "stored_experience_count": 15,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 137,
+      "slug": "Novosibirsk",
+      "name_ru": "Новосибирск",
+      "stored_experience_count": 129,
+      "tripster_count": 143
+    },
+    {
+      "city_id": 140,
+      "slug": "Polotsk",
+      "name_ru": "Полоцк",
+      "stored_experience_count": 15,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 141,
+      "slug": "Male",
+      "name_ru": "Мале",
+      "stored_experience_count": 19,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 143,
+      "slug": "Hamburg",
+      "name_ru": "Гамбург",
+      "stored_experience_count": 20,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 144,
+      "slug": "Saint_Petersburg",
+      "name_ru": "Санкт-Петербург",
+      "stored_experience_count": 2427,
+      "tripster_count": 3145
+    },
+    {
+      "city_id": 146,
+      "slug": "Moscow",
+      "name_ru": "Москва",
+      "stored_experience_count": 1525,
+      "tripster_count": 1983
+    },
+    {
+      "city_id": 148,
+      "slug": "Belgrade",
+      "name_ru": "Белград",
+      "stored_experience_count": 119,
+      "tripster_count": 123
+    },
+    {
+      "city_id": 149,
+      "slug": "Kaliningrad",
+      "name_ru": "Калининград",
+      "stored_experience_count": 807,
+      "tripster_count": 867
+    },
+    {
+      "city_id": 150,
+      "slug": "Innsbruck",
+      "name_ru": "Инсбрук",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 151,
+      "slug": "Krasnoyarsk",
+      "name_ru": "Красноярск",
+      "stored_experience_count": 113,
+      "tripster_count": 122
+    },
+    {
+      "city_id": 153,
+      "slug": "Yekaterinburg",
+      "name_ru": "Екатеринбург",
+      "stored_experience_count": 278,
+      "tripster_count": 318
+    },
+    {
+      "city_id": 159,
+      "slug": "Chicago",
+      "name_ru": "Чикаго",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 160,
+      "slug": "Baikonur",
+      "name_ru": "Байконур",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 161,
+      "slug": "Rostov-on-Don",
+      "name_ru": "Ростов-на-Дону",
+      "stored_experience_count": 72,
+      "tripster_count": 86
+    },
+    {
+      "city_id": 163,
+      "slug": "Toledo",
+      "name_ru": "Толедо",
+      "stored_experience_count": 5,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 164,
+      "slug": "Athens",
+      "name_ru": "Афины",
+      "stored_experience_count": 40,
+      "tripster_count": 52
+    },
+    {
+      "city_id": 165,
+      "slug": "Nizhny_Novgorod",
+      "name_ru": "Нижний Новгород",
+      "stored_experience_count": 449,
+      "tripster_count": 535
+    },
+    {
+      "city_id": 166,
+      "slug": "Madeira",
+      "name_ru": "Мадейра",
+      "stored_experience_count": 29,
+      "tripster_count": 30
+    },
+    {
+      "city_id": 167,
+      "slug": "Palermo",
+      "name_ru": "Палермо",
+      "stored_experience_count": 20,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 168,
+      "slug": "Lednice",
+      "name_ru": "Леднице",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 169,
+      "slug": "Turin",
+      "name_ru": "Турин",
+      "stored_experience_count": 17,
+      "tripster_count": 20
+    },
+    {
+      "city_id": 170,
+      "slug": "Bordeaux",
+      "name_ru": "Бордо",
+      "stored_experience_count": 16,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 172,
+      "slug": "Irkutsk",
+      "name_ru": "Иркутск",
+      "stored_experience_count": 395,
+      "tripster_count": 312
+    },
+    {
+      "city_id": 174,
+      "slug": "Ghent",
+      "name_ru": "Гент",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 175,
+      "slug": "Bari",
+      "name_ru": "Бари",
+      "stored_experience_count": 13,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 176,
+      "slug": "Izhevsk",
+      "name_ru": "Ижевск",
+      "stored_experience_count": 17,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 179,
+      "slug": "Yelets",
+      "name_ru": "Елец",
+      "stored_experience_count": 3,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 180,
+      "slug": "Rouen",
+      "name_ru": "Руан",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 182,
+      "slug": "Smolensk",
+      "name_ru": "Смоленск",
+      "stored_experience_count": 76,
+      "tripster_count": 91
+    },
+    {
+      "city_id": 183,
+      "slug": "Eilat",
+      "name_ru": "Эйлат",
+      "stored_experience_count": 4,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 184,
+      "slug": "Vladivostok",
+      "name_ru": "Владивосток",
+      "stored_experience_count": 336,
+      "tripster_count": 421
+    },
+    {
+      "city_id": 185,
+      "slug": "Kirzhach",
+      "name_ru": "Киржач",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 186,
+      "slug": "Cannes",
+      "name_ru": "Канны",
+      "stored_experience_count": 15,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 188,
+      "slug": "Voronezh",
+      "name_ru": "Воронеж",
+      "stored_experience_count": 57,
+      "tripster_count": 71
+    },
+    {
+      "city_id": 189,
+      "slug": "Brasov",
+      "name_ru": "Брашов",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 190,
+      "slug": "Khabarovsk",
+      "name_ru": "Хабаровск",
+      "stored_experience_count": 18,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 195,
+      "slug": "Leuven",
+      "name_ru": "Лёвен",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 196,
+      "slug": "Amalfi",
+      "name_ru": "Амальфи",
+      "stored_experience_count": 8,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 197,
+      "slug": "Kazan",
+      "name_ru": "Казань",
+      "stored_experience_count": 476,
+      "tripster_count": 585
+    },
+    {
+      "city_id": 198,
+      "slug": "The_Hague",
+      "name_ru": "Гаага",
+      "stored_experience_count": 6,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 200,
+      "slug": "Salerno",
+      "name_ru": "Салерно",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 201,
+      "slug": "Alanya",
+      "name_ru": "Аланья",
+      "stored_experience_count": 149,
+      "tripster_count": 177
+    },
+    {
+      "city_id": 202,
+      "slug": "Bled",
+      "name_ru": "Блед",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 203,
+      "slug": "Pskov",
+      "name_ru": "Псков",
+      "stored_experience_count": 167,
+      "tripster_count": 193
+    },
+    {
+      "city_id": 204,
+      "slug": "Buenos_Aires",
+      "name_ru": "Буэнос-Айрес",
+      "stored_experience_count": 48,
+      "tripster_count": 48
+    },
+    {
+      "city_id": 206,
+      "slug": "Limassol",
+      "name_ru": "Лимассол",
+      "stored_experience_count": 24,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 207,
+      "slug": "Cancun",
+      "name_ru": "Канкун",
+      "stored_experience_count": 16,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 208,
+      "slug": "Samui",
+      "name_ru": "Самуи",
+      "stored_experience_count": 16,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 209,
+      "slug": "Zurich",
+      "name_ru": "Цюрих",
+      "stored_experience_count": 18,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 211,
+      "slug": "Olbia",
+      "name_ru": "Ольбия",
+      "stored_experience_count": 8,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 212,
+      "slug": "Nice",
+      "name_ru": "Ницца",
+      "stored_experience_count": 38,
+      "tripster_count": 40
+    },
+    {
+      "city_id": 214,
+      "slug": "Porto_Cervo",
+      "name_ru": "Порто-Черво",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 215,
+      "slug": "Bergamo",
+      "name_ru": "Бергамо",
+      "stored_experience_count": 6,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 217,
+      "slug": "Strasbourg",
+      "name_ru": "Страсбург",
+      "stored_experience_count": 15,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 219,
+      "slug": "Aarhus",
+      "name_ru": "Орхус",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 220,
+      "slug": "Yerevan",
+      "name_ru": "Ереван",
+      "stored_experience_count": 512,
+      "tripster_count": 487
+    },
+    {
+      "city_id": 221,
+      "slug": "Mtskheta",
+      "name_ru": "Мцхета",
+      "stored_experience_count": 22,
+      "tripster_count": 28
+    },
+    {
+      "city_id": 226,
+      "slug": "Genoa",
+      "name_ru": "Генуя",
+      "stored_experience_count": 27,
+      "tripster_count": 34
+    },
+    {
+      "city_id": 227,
+      "slug": "Pisa",
+      "name_ru": "Пиза",
+      "stored_experience_count": 11,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 228,
+      "slug": "Dresden",
+      "name_ru": "Дрезден",
+      "stored_experience_count": 10,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 229,
+      "slug": "Murom",
+      "name_ru": "Муром",
+      "stored_experience_count": 27,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 230,
+      "slug": "Tomsk",
+      "name_ru": "Томск",
+      "stored_experience_count": 18,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 232,
+      "slug": "Lecce",
+      "name_ru": "Лечче",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 233,
+      "slug": "Augsburg",
+      "name_ru": "Аугсбург",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 234,
+      "slug": "Girona",
+      "name_ru": "Жирона",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 235,
+      "slug": "Vladimir",
+      "name_ru": "Владимир",
+      "stored_experience_count": 96,
+      "tripster_count": 119
+    },
+    {
+      "city_id": 237,
+      "slug": "Ankara",
+      "name_ru": "Анкара",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 238,
+      "slug": "Ulm",
+      "name_ru": "Ульм",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 239,
+      "slug": "Tver",
+      "name_ru": "Тверь",
+      "stored_experience_count": 92,
+      "tripster_count": 108
+    },
+    {
+      "city_id": 241,
+      "slug": "Duesseldorf",
+      "name_ru": "Дюссельдорф",
+      "stored_experience_count": 11,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 243,
+      "slug": "Muscat",
+      "name_ru": "Маскат",
+      "stored_experience_count": 107,
+      "tripster_count": 108
+    },
+    {
+      "city_id": 244,
+      "slug": "Vyborg",
+      "name_ru": "Выборг",
+      "stored_experience_count": 119,
+      "tripster_count": 147
+    },
+    {
+      "city_id": 245,
+      "slug": "Svetlogorsk",
+      "name_ru": "Светлогорск",
+      "stored_experience_count": 106,
+      "tripster_count": 120
+    },
+    {
+      "city_id": 246,
+      "slug": "Chisinau",
+      "name_ru": "Кишинёв",
+      "stored_experience_count": 6,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 247,
+      "slug": "Cape_Town",
+      "name_ru": "Кейптаун",
+      "stored_experience_count": 59,
+      "tripster_count": 55
+    },
+    {
+      "city_id": 248,
+      "slug": "Ryazan",
+      "name_ru": "Рязань",
+      "stored_experience_count": 81,
+      "tripster_count": 96
+    },
+    {
+      "city_id": 249,
+      "slug": "Kronstadt",
+      "name_ru": "Кронштадт",
+      "stored_experience_count": 40,
+      "tripster_count": 48
+    },
+    {
+      "city_id": 250,
+      "slug": "Singapore",
+      "name_ru": "Сингапур",
+      "stored_experience_count": 27,
+      "tripster_count": 37
+    },
+    {
+      "city_id": 251,
+      "slug": "Coimbra",
+      "name_ru": "Коимбра",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 253,
+      "slug": "Hurghada",
+      "name_ru": "Хургада",
+      "stored_experience_count": 139,
+      "tripster_count": 141
+    },
+    {
+      "city_id": 254,
+      "slug": "Tunis",
+      "name_ru": "Тунис",
+      "stored_experience_count": 6,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 255,
+      "slug": "Lyon",
+      "name_ru": "Лион",
+      "stored_experience_count": 20,
+      "tripster_count": 20
+    },
+    {
+      "city_id": 256,
+      "slug": "Colmar",
+      "name_ru": "Кольмар",
+      "stored_experience_count": 7,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 258,
+      "slug": "Siemreap",
+      "name_ru": "Сиемреап",
+      "stored_experience_count": 19,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 259,
+      "slug": "Hammamet",
+      "name_ru": "Хаммамет",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 260,
+      "slug": "Bratislava",
+      "name_ru": "Братислава",
+      "stored_experience_count": 15,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 261,
+      "slug": "Kuala_Lumpur",
+      "name_ru": "Куала-Лумпур",
+      "stored_experience_count": 54,
+      "tripster_count": 57
+    },
+    {
+      "city_id": 262,
+      "slug": "Cambridge",
+      "name_ru": "Кембридж",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 263,
+      "slug": "Bologna",
+      "name_ru": "Болонья",
+      "stored_experience_count": 28,
+      "tripster_count": 36
+    },
+    {
+      "city_id": 264,
+      "slug": "Kotor",
+      "name_ru": "Котор",
+      "stored_experience_count": 11,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 265,
+      "slug": "Salzburg",
+      "name_ru": "Зальцбург",
+      "stored_experience_count": 16,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 266,
+      "slug": "Sergiyev_Posad",
+      "name_ru": "Сергиев Посад",
+      "stored_experience_count": 57,
+      "tripster_count": 75
+    },
+    {
+      "city_id": 267,
+      "slug": "Kolomna",
+      "name_ru": "Коломна",
+      "stored_experience_count": 130,
+      "tripster_count": 143
+    },
+    {
+      "city_id": 270,
+      "slug": "Port_Louis",
+      "name_ru": "Порт-Луи",
+      "stored_experience_count": 29,
+      "tripster_count": 29
+    },
+    {
+      "city_id": 271,
+      "slug": "Annecy",
+      "name_ru": "Анси",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 274,
+      "slug": "Tula",
+      "name_ru": "Тула",
+      "stored_experience_count": 120,
+      "tripster_count": 131
+    },
+    {
+      "city_id": 275,
+      "slug": "Suzdal",
+      "name_ru": "Суздаль",
+      "stored_experience_count": 97,
+      "tripster_count": 128
+    },
+    {
+      "city_id": 276,
+      "slug": "Vologda",
+      "name_ru": "Вологда",
+      "stored_experience_count": 47,
+      "tripster_count": 52
+    },
+    {
+      "city_id": 277,
+      "slug": "Yaroslavl",
+      "name_ru": "Ярославль",
+      "stored_experience_count": 198,
+      "tripster_count": 228
+    },
+    {
+      "city_id": 279,
+      "slug": "Cagliari",
+      "name_ru": "Кальяри",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 281,
+      "slug": "Syracuse",
+      "name_ru": "Сиракузы",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 282,
+      "slug": "Burgas",
+      "name_ru": "Бургас",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 283,
+      "slug": "Chartres",
+      "name_ru": "Шартр",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 285,
+      "slug": "Catania",
+      "name_ru": "Катания",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 286,
+      "slug": "Lhasa",
+      "name_ru": "Лхаса",
+      "stored_experience_count": 5,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 287,
+      "slug": "Minsk",
+      "name_ru": "Минск",
+      "stored_experience_count": 432,
+      "tripster_count": 468
+    },
+    {
+      "city_id": 288,
+      "slug": "Punta_Cana",
+      "name_ru": "Пунта-Кана",
+      "stored_experience_count": 5,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 289,
+      "slug": "Krakow",
+      "name_ru": "Краков",
+      "stored_experience_count": 20,
+      "tripster_count": 26
+    },
+    {
+      "city_id": 292,
+      "slug": "Batumi",
+      "name_ru": "Батуми",
+      "stored_experience_count": 192,
+      "tripster_count": 213
+    },
+    {
+      "city_id": 294,
+      "slug": "Modica",
+      "name_ru": "Модика",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 296,
+      "slug": "Nha_Trang",
+      "name_ru": "Нячанг",
+      "stored_experience_count": 103,
+      "tripster_count": 116
+    },
+    {
+      "city_id": 297,
+      "slug": "Sochi",
+      "name_ru": "Сочи",
+      "stored_experience_count": 489,
+      "tripster_count": 629
+    },
+    {
+      "city_id": 299,
+      "slug": "Phuket",
+      "name_ru": "Пхукет",
+      "stored_experience_count": 230,
+      "tripster_count": 283
+    },
+    {
+      "city_id": 300,
+      "slug": "Villefranche-sur-Saone",
+      "name_ru": "Вильфранш-сюр-Сон",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 301,
+      "slug": "Murmansk",
+      "name_ru": "Мурманск",
+      "stored_experience_count": 330,
+      "tripster_count": 365
+    },
+    {
+      "city_id": 303,
+      "slug": "Ostuni",
+      "name_ru": "Остуни",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 304,
+      "slug": "Monopoli",
+      "name_ru": "Монополи",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 305,
+      "slug": "Regensburg",
+      "name_ru": "Регенсбург",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 307,
+      "slug": "Tarragona",
+      "name_ru": "Таррагона",
+      "stored_experience_count": 8,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 308,
+      "slug": "Rennes",
+      "name_ru": "Ренн",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 309,
+      "slug": "Liverpool",
+      "name_ru": "Ливерпуль",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 312,
+      "slug": "Cordoba",
+      "name_ru": "Кордова",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 313,
+      "slug": "Durres",
+      "name_ru": "Дуррес",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 315,
+      "slug": "Beirut",
+      "name_ru": "Бейрут",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 316,
+      "slug": "Barnaul",
+      "name_ru": "Барнаул",
+      "stored_experience_count": 37,
+      "tripster_count": 26
+    },
+    {
+      "city_id": 317,
+      "slug": "Krasnoarmeysk",
+      "name_ru": "Красноармейск",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 318,
+      "slug": "Plyos",
+      "name_ru": "Плёс",
+      "stored_experience_count": 21,
+      "tripster_count": 25
+    },
+    {
+      "city_id": 319,
+      "slug": "Tirana",
+      "name_ru": "Тирана",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 322,
+      "slug": "Lausanne",
+      "name_ru": "Лозанна",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 323,
+      "slug": "Ravenna",
+      "name_ru": "Равенна",
+      "stored_experience_count": 4,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 324,
+      "slug": "Marseille",
+      "name_ru": "Марсель",
+      "stored_experience_count": 23,
+      "tripster_count": 29
+    },
+    {
+      "city_id": 325,
+      "slug": "Aachen",
+      "name_ru": "Аахен",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 326,
+      "slug": "Okinawa",
+      "name_ru": "Окинава",
+      "stored_experience_count": 9,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 328,
+      "slug": "Nagasaki",
+      "name_ru": "Нагасаки",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 330,
+      "slug": "Petra",
+      "name_ru": "Петра",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 331,
+      "slug": "Varna",
+      "name_ru": "Варна",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 332,
+      "slug": "Tempio_Pausania",
+      "name_ru": "Темпио Паусания",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 334,
+      "slug": "San_Sebastian",
+      "name_ru": "Сан-Себастьян",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 336,
+      "slug": "Nizhny_Tagil",
+      "name_ru": "Нижний Тагил",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 337,
+      "slug": "Arzamas",
+      "name_ru": "Арзамас",
+      "stored_experience_count": 12,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 338,
+      "slug": "Gorodets",
+      "name_ru": "Городец",
+      "stored_experience_count": 12,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 339,
+      "slug": "Vyksa",
+      "name_ru": "Выкса",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 340,
+      "slug": "Reims",
+      "name_ru": "Реймс",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 343,
+      "slug": "Malmo",
+      "name_ru": "Мальмё",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 344,
+      "slug": "Ayia_Napa",
+      "name_ru": "Айя-Напа",
+      "stored_experience_count": 8,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 345,
+      "slug": "Lubeck",
+      "name_ru": "Любек",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 346,
+      "slug": "Kiel",
+      "name_ru": "Киль",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 347,
+      "slug": "Merano",
+      "name_ru": "Мерано",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 348,
+      "slug": "Sitges",
+      "name_ru": "Ситжес",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 350,
+      "slug": "Hakone",
+      "name_ru": "Хаконе",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 351,
+      "slug": "Kamakura",
+      "name_ru": "Камакура",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 352,
+      "slug": "Yakutsk",
+      "name_ru": "Якутск",
+      "stored_experience_count": 8,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 354,
+      "slug": "Otranto",
+      "name_ru": "Отранто",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 355,
+      "slug": "Lille",
+      "name_ru": "Лилль",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 356,
+      "slug": "Alghero",
+      "name_ru": "Альгеро",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 357,
+      "slug": "Kutaisi",
+      "name_ru": "Кутаиси",
+      "stored_experience_count": 60,
+      "tripster_count": 50
+    },
+    {
+      "city_id": 359,
+      "slug": "Bilbao",
+      "name_ru": "Бильбао",
+      "stored_experience_count": 9,
+      "tripster_count": 11
+    },
+    {
+      "city_id": 360,
+      "slug": "Biarritz",
+      "name_ru": "Биарриц",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 361,
+      "slug": "La_Rioja",
+      "name_ru": "Риоха",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 362,
+      "slug": "Bolzano",
+      "name_ru": "Больцано",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 364,
+      "slug": "Astana",
+      "name_ru": "Астана",
+      "stored_experience_count": 60,
+      "tripster_count": 62
+    },
+    {
+      "city_id": 365,
+      "slug": "Naha_shi",
+      "name_ru": "Наха",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 367,
+      "slug": "Palma_de_Mallorca",
+      "name_ru": "Пальма-де-Майорка",
+      "stored_experience_count": 10,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 368,
+      "slug": "Brescia",
+      "name_ru": "Брешиа",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 369,
+      "slug": "Trieste",
+      "name_ru": "Триест",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 370,
+      "slug": "Torrevieja",
+      "name_ru": "Торревьеха",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 371,
+      "slug": "Vitoria_Gasteiz",
+      "name_ru": "Витория-Гастейс",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 373,
+      "slug": "Alberobello",
+      "name_ru": "Альберобелло",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 374,
+      "slug": "Gran_Canaria",
+      "name_ru": "Гран-Канария",
+      "stored_experience_count": 15,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 375,
+      "slug": "Rhodes",
+      "name_ru": "Родос",
+      "stored_experience_count": 27,
+      "tripster_count": 40
+    },
+    {
+      "city_id": 376,
+      "slug": "Brest",
+      "name_ru": "Брест",
+      "stored_experience_count": 82,
+      "tripster_count": 91
+    },
+    {
+      "city_id": 377,
+      "slug": "Rostov",
+      "name_ru": "Ростов Великий",
+      "stored_experience_count": 36,
+      "tripster_count": 35
+    },
+    {
+      "city_id": 378,
+      "slug": "Novo_Mesto",
+      "name_ru": "Ново-Место",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 380,
+      "slug": "Ulan_Ude",
+      "name_ru": "Улан-Удэ",
+      "stored_experience_count": 103,
+      "tripster_count": 89
+    },
+    {
+      "city_id": 381,
+      "slug": "Novorossiysk",
+      "name_ru": "Новороссийск",
+      "stored_experience_count": 28,
+      "tripster_count": 40
+    },
+    {
+      "city_id": 382,
+      "slug": "Veliky_Novgorod",
+      "name_ru": "Великий Новгород",
+      "stored_experience_count": 120,
+      "tripster_count": 134
+    },
+    {
+      "city_id": 383,
+      "slug": "Sevilla",
+      "name_ru": "Севилья",
+      "stored_experience_count": 18,
+      "tripster_count": 26
+    },
+    {
+      "city_id": 384,
+      "slug": "Baku",
+      "name_ru": "Баку",
+      "stored_experience_count": 375,
+      "tripster_count": 335
+    },
+    {
+      "city_id": 385,
+      "slug": "Dubrovnik",
+      "name_ru": "Дубровник",
+      "stored_experience_count": 17,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 386,
+      "slug": "Kostroma",
+      "name_ru": "Кострома",
+      "stored_experience_count": 128,
+      "tripster_count": 151
+    },
+    {
+      "city_id": 387,
+      "slug": "Volgograd",
+      "name_ru": "Волгоград",
+      "stored_experience_count": 90,
+      "tripster_count": 119
+    },
+    {
+      "city_id": 388,
+      "slug": "Goa",
+      "name_ru": "Гоа",
+      "stored_experience_count": 31,
+      "tripster_count": 47
+    },
+    {
+      "city_id": 389,
+      "slug": "Delhi",
+      "name_ru": "Дели",
+      "stored_experience_count": 116,
+      "tripster_count": 42
+    },
+    {
+      "city_id": 390,
+      "slug": "Samarqand",
+      "name_ru": "Самарканд",
+      "stored_experience_count": 240,
+      "tripster_count": 234
+    },
+    {
+      "city_id": 391,
+      "slug": "Samara",
+      "name_ru": "Самара",
+      "stored_experience_count": 98,
+      "tripster_count": 132
+    },
+    {
+      "city_id": 392,
+      "slug": "Graz",
+      "name_ru": "Грац",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 393,
+      "slug": "Pereslavl_Zalessky",
+      "name_ru": "Переславль-Залесский",
+      "stored_experience_count": 41,
+      "tripster_count": 44
+    },
+    {
+      "city_id": 394,
+      "slug": "Havana",
+      "name_ru": "Гавана",
+      "stored_experience_count": 16,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 395,
+      "slug": "Ufa",
+      "name_ru": "Уфа",
+      "stored_experience_count": 105,
+      "tripster_count": 128
+    },
+    {
+      "city_id": 396,
+      "slug": "Uglich",
+      "name_ru": "Углич",
+      "stored_experience_count": 23,
+      "tripster_count": 32
+    },
+    {
+      "city_id": 397,
+      "slug": "Belgorod",
+      "name_ru": "Белгород",
+      "stored_experience_count": 3,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 399,
+      "slug": "Ljubljana",
+      "name_ru": "Любляна",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 401,
+      "slug": "Makhachkala",
+      "name_ru": "Махачкала",
+      "stored_experience_count": 266,
+      "tripster_count": 227
+    },
+    {
+      "city_id": 402,
+      "slug": "Washington",
+      "name_ru": "Вашингтон",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 403,
+      "slug": "Seoul",
+      "name_ru": "Сеул",
+      "stored_experience_count": 72,
+      "tripster_count": 73
+    },
+    {
+      "city_id": 404,
+      "slug": "Kirovsk",
+      "name_ru": "Кировск",
+      "stored_experience_count": 18,
+      "tripster_count": 28
+    },
+    {
+      "city_id": 405,
+      "slug": "Torzhok",
+      "name_ru": "Торжок",
+      "stored_experience_count": 20,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 406,
+      "slug": "Magas",
+      "name_ru": "Магас",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 408,
+      "slug": "Palanga",
+      "name_ru": "Паланга",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 409,
+      "slug": "Rimini",
+      "name_ru": "Римини",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 410,
+      "slug": "Arkhangelsk",
+      "name_ru": "Архангельск",
+      "stored_experience_count": 63,
+      "tripster_count": 68
+    },
+    {
+      "city_id": 411,
+      "slug": "Chelyabinsk",
+      "name_ru": "Челябинск",
+      "stored_experience_count": 28,
+      "tripster_count": 35
+    },
+    {
+      "city_id": 412,
+      "slug": "Derbent",
+      "name_ru": "Дербент",
+      "stored_experience_count": 111,
+      "tripster_count": 125
+    },
+    {
+      "city_id": 413,
+      "slug": "Sokhumi",
+      "name_ru": "Сухум",
+      "stored_experience_count": 69,
+      "tripster_count": 80
+    },
+    {
+      "city_id": 415,
+      "slug": "Pavlovsky_Posad",
+      "name_ru": "Павловский Посад",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 417,
+      "slug": "Perm",
+      "name_ru": "Пермь",
+      "stored_experience_count": 135,
+      "tripster_count": 143
+    },
+    {
+      "city_id": 418,
+      "slug": "Quito",
+      "name_ru": "Кито",
+      "stored_experience_count": 6,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 420,
+      "slug": "Kaluga",
+      "name_ru": "Калуга",
+      "stored_experience_count": 82,
+      "tripster_count": 83
+    },
+    {
+      "city_id": 421,
+      "slug": "Totma",
+      "name_ru": "Тотьма",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 422,
+      "slug": "Yoshkar_Ola",
+      "name_ru": "Йошкар-Ола",
+      "stored_experience_count": 48,
+      "tripster_count": 54
+    },
+    {
+      "city_id": 423,
+      "slug": "Mumbai",
+      "name_ru": "Мумбаи",
+      "stored_experience_count": 10,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 424,
+      "slug": "Basel",
+      "name_ru": "Базель",
+      "stored_experience_count": 1,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 425,
+      "slug": "Petrozavodsk",
+      "name_ru": "Петрозаводск",
+      "stored_experience_count": 176,
+      "tripster_count": 174
+    },
+    {
+      "city_id": 426,
+      "slug": "Novi_Sad",
+      "name_ru": "Нови-Сад",
+      "stored_experience_count": 17,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 427,
+      "slug": "Lucca",
+      "name_ru": "Лукка",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 428,
+      "slug": "Oryol",
+      "name_ru": "Орёл",
+      "stored_experience_count": 12,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 429,
+      "slug": "Wroclaw",
+      "name_ru": "Вроцлав",
+      "stored_experience_count": 11,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 430,
+      "slug": "Larnaca",
+      "name_ru": "Ларнака",
+      "stored_experience_count": 10,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 431,
+      "slug": "Tivat",
+      "name_ru": "Тиват",
+      "stored_experience_count": 18,
+      "tripster_count": 20
+    },
+    {
+      "city_id": 433,
+      "slug": "Gelendzhik",
+      "name_ru": "Геленджик",
+      "stored_experience_count": 80,
+      "tripster_count": 105
+    },
+    {
+      "city_id": 434,
+      "slug": "Varadero",
+      "name_ru": "Варадеро",
+      "stored_experience_count": 7,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 435,
+      "slug": "Kemerovo",
+      "name_ru": "Кемерово",
+      "stored_experience_count": 9,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 436,
+      "slug": "San_Remo",
+      "name_ru": "Сан-Ремо",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 437,
+      "slug": "Mexico",
+      "name_ru": "Мехико",
+      "stored_experience_count": 13,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 438,
+      "slug": "Marrakesh",
+      "name_ru": "Марракеш",
+      "stored_experience_count": 16,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 439,
+      "slug": "Nyasvizh",
+      "name_ru": "Несвиж",
+      "stored_experience_count": 15,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 441,
+      "slug": "Saratov",
+      "name_ru": "Саратов",
+      "stored_experience_count": 37,
+      "tripster_count": 40
+    },
+    {
+      "city_id": 442,
+      "slug": "Grenoble",
+      "name_ru": "Гренобль",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 445,
+      "slug": "Burgos",
+      "name_ru": "Бургос",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 446,
+      "slug": "Pamplona",
+      "name_ru": "Памплона",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 447,
+      "slug": "Cebu",
+      "name_ru": "Себу",
+      "stored_experience_count": 18,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 448,
+      "slug": "Nimes",
+      "name_ru": "Ним",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 449,
+      "slug": "Astrakhan",
+      "name_ru": "Астрахань",
+      "stored_experience_count": 50,
+      "tripster_count": 53
+    },
+    {
+      "city_id": 451,
+      "slug": "Krasnodar",
+      "name_ru": "Краснодар",
+      "stored_experience_count": 148,
+      "tripster_count": 151
+    },
+    {
+      "city_id": 453,
+      "slug": "Side",
+      "name_ru": "Сиде",
+      "stored_experience_count": 125,
+      "tripster_count": 150
+    },
+    {
+      "city_id": 454,
+      "slug": "Kemer",
+      "name_ru": "Кемер",
+      "stored_experience_count": 144,
+      "tripster_count": 165
+    },
+    {
+      "city_id": 455,
+      "slug": "Cappadocia",
+      "name_ru": "Каппадокия",
+      "stored_experience_count": 120,
+      "tripster_count": 135
+    },
+    {
+      "city_id": 456,
+      "slug": "Lagos",
+      "name_ru": "Лагуш",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 457,
+      "slug": "Essaouira",
+      "name_ru": "Эс-Сувейра",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 458,
+      "slug": "Orleans",
+      "name_ru": "Орлеан",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 459,
+      "slug": "Taganrog",
+      "name_ru": "Таганрог",
+      "stored_experience_count": 12,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 460,
+      "slug": "Adelaide",
+      "name_ru": "Аделаида",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 461,
+      "slug": "Phan_Thiet",
+      "name_ru": "Фантьет",
+      "stored_experience_count": 20,
+      "tripster_count": 29
+    },
+    {
+      "city_id": 462,
+      "slug": "Lima",
+      "name_ru": "Лима",
+      "stored_experience_count": 2,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 463,
+      "slug": "Utrecht",
+      "name_ru": "Утрехт",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 466,
+      "slug": "Alba",
+      "name_ru": "Альба",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 467,
+      "slug": "Aqaba",
+      "name_ru": "Акаба",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 468,
+      "slug": "Miami",
+      "name_ru": "Майами",
+      "stored_experience_count": 21,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 469,
+      "slug": "Kandy",
+      "name_ru": "Канди",
+      "stored_experience_count": 2,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 470,
+      "slug": "Abu_Dhabi",
+      "name_ru": "Абу-Даби",
+      "stored_experience_count": 63,
+      "tripster_count": 74
+    },
+    {
+      "city_id": 471,
+      "slug": "Ivanovo",
+      "name_ru": "Иваново",
+      "stored_experience_count": 21,
+      "tripster_count": 25
+    },
+    {
+      "city_id": 472,
+      "slug": "Sharjah",
+      "name_ru": "Шарджа",
+      "stored_experience_count": 35,
+      "tripster_count": 37
+    },
+    {
+      "city_id": 473,
+      "slug": "Rotterdam",
+      "name_ru": "Роттердам",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 474,
+      "slug": "Almaty",
+      "name_ru": "Алматы",
+      "stored_experience_count": 149,
+      "tripster_count": 148
+    },
+    {
+      "city_id": 475,
+      "slug": "Ulyanovsk",
+      "name_ru": "Ульяновск",
+      "stored_experience_count": 25,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 477,
+      "slug": "Aix_en_Provence",
+      "name_ru": "Экс-ан-Прованс",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 479,
+      "slug": "Luoyang",
+      "name_ru": "Лоян",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 480,
+      "slug": "Kyoto",
+      "name_ru": "Киото",
+      "stored_experience_count": 32,
+      "tripster_count": 35
+    },
+    {
+      "city_id": 481,
+      "slug": "Orenburg",
+      "name_ru": "Оренбург",
+      "stored_experience_count": 16,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 482,
+      "slug": "Tyumen",
+      "name_ru": "Тюмень",
+      "stored_experience_count": 43,
+      "tripster_count": 49
+    },
+    {
+      "city_id": 483,
+      "slug": "Paphos",
+      "name_ru": "Пафос",
+      "stored_experience_count": 13,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 484,
+      "slug": "Crete",
+      "name_ru": "Крит",
+      "stored_experience_count": 1,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 485,
+      "slug": "Zagreb",
+      "name_ru": "Загреб",
+      "stored_experience_count": 7,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 486,
+      "slug": "Narva",
+      "name_ru": "Нарва",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 487,
+      "slug": "Corfu",
+      "name_ru": "Корфу",
+      "stored_experience_count": 15,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 488,
+      "slug": "Colombo",
+      "name_ru": "Коломбо",
+      "stored_experience_count": 48,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 489,
+      "slug": "Mozhaysk",
+      "name_ru": "Можайск",
+      "stored_experience_count": 7,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 490,
+      "slug": "Borovsk",
+      "name_ru": "Боровск",
+      "stored_experience_count": 13,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 491,
+      "slug": "Potsdam",
+      "name_ru": "Потсдам",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 492,
+      "slug": "Split",
+      "name_ru": "Сплит",
+      "stored_experience_count": 9,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 494,
+      "slug": "Grodno",
+      "name_ru": "Гродно",
+      "stored_experience_count": 74,
+      "tripster_count": 85
+    },
+    {
+      "city_id": 495,
+      "slug": "Fethiye",
+      "name_ru": "Фетхие",
+      "stored_experience_count": 37,
+      "tripster_count": 31
+    },
+    {
+      "city_id": 496,
+      "slug": "Muine",
+      "name_ru": "Муйне",
+      "stored_experience_count": 6,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 497,
+      "slug": "Dalat",
+      "name_ru": "Далат",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 498,
+      "slug": "Santorini",
+      "name_ru": "Санторини",
+      "stored_experience_count": 6,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 502,
+      "slug": "Nairobi",
+      "name_ru": "Найроби",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 504,
+      "slug": "Diveyevo",
+      "name_ru": "Дивеево",
+      "stored_experience_count": 11,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 505,
+      "slug": "Bucharest",
+      "name_ru": "Бухарест",
+      "stored_experience_count": 10,
+      "tripster_count": 11
+    },
+    {
+      "city_id": 506,
+      "slug": "Chester",
+      "name_ru": "Честер",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 507,
+      "slug": "Krabi",
+      "name_ru": "Краби",
+      "stored_experience_count": 13,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 509,
+      "slug": "Capri",
+      "name_ru": "Капри",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 511,
+      "slug": "Heraklion",
+      "name_ru": "Ираклион",
+      "stored_experience_count": 18,
+      "tripster_count": 30
+    },
+    {
+      "city_id": 512,
+      "slug": "Kirov",
+      "name_ru": "Киров",
+      "stored_experience_count": 18,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 513,
+      "slug": "Gomel",
+      "name_ru": "Гомель",
+      "stored_experience_count": 6,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 514,
+      "slug": "Corsica",
+      "name_ru": "Корсика",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 515,
+      "slug": "Tahiti",
+      "name_ru": "Таити",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 516,
+      "slug": "Las_Vegas",
+      "name_ru": "Лас-Вегас",
+      "stored_experience_count": 12,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 517,
+      "slug": "Boston",
+      "name_ru": "Бостон",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 518,
+      "slug": "Izborsk",
+      "name_ru": "Изборск",
+      "stored_experience_count": 9,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 519,
+      "slug": "Lazarevskoye",
+      "name_ru": "Лазаревское",
+      "stored_experience_count": 12,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 520,
+      "slug": "Adler",
+      "name_ru": "Адлер",
+      "stored_experience_count": 258,
+      "tripster_count": 291
+    },
+    {
+      "city_id": 521,
+      "slug": "Sorrento",
+      "name_ru": "Сорренто",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 522,
+      "slug": "Pushkin",
+      "name_ru": "Пушкин",
+      "stored_experience_count": 30,
+      "tripster_count": 33
+    },
+    {
+      "city_id": 523,
+      "slug": "Kizhi",
+      "name_ru": "Кижи",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 526,
+      "slug": "Pechory",
+      "name_ru": "Печоры",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 527,
+      "slug": "Phu_Quoc",
+      "name_ru": "Фукуок",
+      "stored_experience_count": 15,
+      "tripster_count": 34
+    },
+    {
+      "city_id": 529,
+      "slug": "Gorno-Altaysk",
+      "name_ru": "Горно-Алтайск",
+      "stored_experience_count": 181,
+      "tripster_count": 98
+    },
+    {
+      "city_id": 531,
+      "slug": "Padova",
+      "name_ru": "Падуя",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 532,
+      "slug": "Chiang_Rai",
+      "name_ru": "Чианграй",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 533,
+      "slug": "Kobuleti",
+      "name_ru": "Кобулети",
+      "stored_experience_count": 12,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 534,
+      "slug": "Hanoi",
+      "name_ru": "Ханой",
+      "stored_experience_count": 25,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 535,
+      "slug": "Rethymno",
+      "name_ru": "Ретимно",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 536,
+      "slug": "Saransk",
+      "name_ru": "Саранск",
+      "stored_experience_count": 9,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 537,
+      "slug": "Siena",
+      "name_ru": "Сиена",
+      "stored_experience_count": 5,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 538,
+      "slug": "Civitavecchia",
+      "name_ru": "Чивитавеккья",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 539,
+      "slug": "Semyonov",
+      "name_ru": "Семёнов",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 540,
+      "slug": "Manila",
+      "name_ru": "Манила",
+      "stored_experience_count": 14,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 541,
+      "slug": "Tobolsk",
+      "name_ru": "Тобольск",
+      "stored_experience_count": 14,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 542,
+      "slug": "Bamberg",
+      "name_ru": "Бамберг",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 543,
+      "slug": "Cefalu",
+      "name_ru": "Чефалу",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 545,
+      "slug": "Baden-Baden",
+      "name_ru": "Баден-Баден",
+      "stored_experience_count": 7,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 546,
+      "slug": "Taormina",
+      "name_ru": "Таормина",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 547,
+      "slug": "Nesebar",
+      "name_ru": "Несебр",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 548,
+      "slug": "Arles",
+      "name_ru": "Арль",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 549,
+      "slug": "Pyatigorsk",
+      "name_ru": "Пятигорск",
+      "stored_experience_count": 382,
+      "tripster_count": 414
+    },
+    {
+      "city_id": 550,
+      "slug": "Vladikavkaz",
+      "name_ru": "Владикавказ",
+      "stored_experience_count": 237,
+      "tripster_count": 229
+    },
+    {
+      "city_id": 551,
+      "slug": "Chemal",
+      "name_ru": "Чемал",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 552,
+      "slug": "Novokuznetsk",
+      "name_ru": "Новокузнецк",
+      "stored_experience_count": 3,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 553,
+      "slug": "Leipzig",
+      "name_ru": "Лейпциг",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 554,
+      "slug": "Khanty_Mansiysk",
+      "name_ru": "Ханты-Мансийск",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 555,
+      "slug": "Tambov",
+      "name_ru": "Тамбов",
+      "stored_experience_count": 8,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 556,
+      "slug": "Cheboksary",
+      "name_ru": "Чебоксары",
+      "stored_experience_count": 14,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 557,
+      "slug": "Valparaiso",
+      "name_ru": "Вальпараисо",
+      "stored_experience_count": 4,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 559,
+      "slug": "Sviyazhsk",
+      "name_ru": "Свияжск",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 560,
+      "slug": "Murcia",
+      "name_ru": "Мурсия",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 561,
+      "slug": "Grozny",
+      "name_ru": "Грозный",
+      "stored_experience_count": 110,
+      "tripster_count": 101
+    },
+    {
+      "city_id": 562,
+      "slug": "Santiago_de_Compostela",
+      "name_ru": "Сантьяго-де-Компостела",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 563,
+      "slug": "Bolgar",
+      "name_ru": "Болгар",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 564,
+      "slug": "Teriberka",
+      "name_ru": "Териберка",
+      "stored_experience_count": 38,
+      "tripster_count": 43
+    },
+    {
+      "city_id": 566,
+      "slug": "Yuryev-Polsky",
+      "name_ru": "Юрьев-Польский",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 567,
+      "slug": "Omsk",
+      "name_ru": "Омск",
+      "stored_experience_count": 25,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 568,
+      "slug": "Cozumel",
+      "name_ru": "Косумель",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 569,
+      "slug": "Agadir",
+      "name_ru": "Агадир",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 570,
+      "slug": "Gdansk",
+      "name_ru": "Гданьск",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 571,
+      "slug": "Belokurikha",
+      "name_ru": "Белокуриха",
+      "stored_experience_count": 18,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 572,
+      "slug": "Valday",
+      "name_ru": "Валдай",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 573,
+      "slug": "Ajman",
+      "name_ru": "Аджман",
+      "stored_experience_count": 23,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 574,
+      "slug": "Lucerne",
+      "name_ru": "Люцерн",
+      "stored_experience_count": 7,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 575,
+      "slug": "Kislovodsk",
+      "name_ru": "Кисловодск",
+      "stored_experience_count": 448,
+      "tripster_count": 504
+    },
+    {
+      "city_id": 576,
+      "slug": "Yangon",
+      "name_ru": "Янгон",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 577,
+      "slug": "Hikkaduwa",
+      "name_ru": "Хиккадува",
+      "stored_experience_count": 18,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 578,
+      "slug": "Bentota",
+      "name_ru": "Бентота",
+      "stored_experience_count": 4,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 579,
+      "slug": "Karlovy_Vary",
+      "name_ru": "Карловы Вары",
+      "stored_experience_count": 3,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 580,
+      "slug": "Shuya",
+      "name_ru": "Шуя",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 582,
+      "slug": "Bogolyubovo",
+      "name_ru": "Боголюбово",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 583,
+      "slug": "Tartu",
+      "name_ru": "Тарту",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 584,
+      "slug": "Nazran",
+      "name_ru": "Назрань",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 586,
+      "slug": "Khao_Lak",
+      "name_ru": "Као Лак",
+      "stored_experience_count": 15,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 587,
+      "slug": "Marmaris",
+      "name_ru": "Мармарис",
+      "stored_experience_count": 32,
+      "tripster_count": 38
+    },
+    {
+      "city_id": 588,
+      "slug": "Penza",
+      "name_ru": "Пенза",
+      "stored_experience_count": 16,
+      "tripster_count": 24
+    },
+    {
+      "city_id": 589,
+      "slug": "Zelenogradsk",
+      "name_ru": "Зеленоградск",
+      "stored_experience_count": 149,
+      "tripster_count": 171
+    },
+    {
+      "city_id": 590,
+      "slug": "Monaco",
+      "name_ru": "Монако",
+      "stored_experience_count": 13,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 591,
+      "slug": "Magnitogorsk",
+      "name_ru": "Магнитогорск",
+      "stored_experience_count": 3,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 593,
+      "slug": "Quebec",
+      "name_ru": "Квебек",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 594,
+      "slug": "Vientiane",
+      "name_ru": "Вьентьян",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 595,
+      "slug": "Elista",
+      "name_ru": "Элиста",
+      "stored_experience_count": 23,
+      "tripster_count": 20
+    },
+    {
+      "city_id": 596,
+      "slug": "Ronda",
+      "name_ru": "Ронда",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 597,
+      "slug": "Kaunas",
+      "name_ru": "Каунас",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 598,
+      "slug": "Bayeux",
+      "name_ru": "Байё",
+      "stored_experience_count": 4,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 600,
+      "slug": "Pitsunda",
+      "name_ru": "Пицунда",
+      "stored_experience_count": 32,
+      "tripster_count": 40
+    },
+    {
+      "city_id": 601,
+      "slug": "Anapa",
+      "name_ru": "Анапа",
+      "stored_experience_count": 64,
+      "tripster_count": 92
+    },
+    {
+      "city_id": 603,
+      "slug": "Montreal",
+      "name_ru": "Монреаль",
+      "stored_experience_count": 6,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 604,
+      "slug": "Tianjin",
+      "name_ru": "Тяньцзинь",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 605,
+      "slug": "Chania",
+      "name_ru": "Ханья",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 606,
+      "slug": "Modena",
+      "name_ru": "Модена",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 608,
+      "slug": "Abrau_Dyurso",
+      "name_ru": "Абрау-Дюрсо",
+      "stored_experience_count": 20,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 611,
+      "slug": "Abakan",
+      "name_ru": "Абакан",
+      "stored_experience_count": 19,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 612,
+      "slug": "Belek",
+      "name_ru": "Белек",
+      "stored_experience_count": 99,
+      "tripster_count": 113
+    },
+    {
+      "city_id": 613,
+      "slug": "Reus",
+      "name_ru": "Реус",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 616,
+      "slug": "Lugano",
+      "name_ru": "Лугано",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 618,
+      "slug": "Serpukhov",
+      "name_ru": "Серпухов",
+      "stored_experience_count": 32,
+      "tripster_count": 33
+    },
+    {
+      "city_id": 620,
+      "slug": "Orvieto",
+      "name_ru": "Орвието",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 621,
+      "slug": "Podolsk",
+      "name_ru": "Подольск",
+      "stored_experience_count": 4,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 622,
+      "slug": "Honolulu",
+      "name_ru": "Гонолулу",
+      "stored_experience_count": 2,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 623,
+      "slug": "Saint_Malo",
+      "name_ru": "Сен-Мало",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 624,
+      "slug": "Zheleznovodsk",
+      "name_ru": "Железноводск",
+      "stored_experience_count": 124,
+      "tripster_count": 127
+    },
+    {
+      "city_id": 625,
+      "slug": "Avignon",
+      "name_ru": "Авиньон",
+      "stored_experience_count": 4,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 627,
+      "slug": "Stresa",
+      "name_ru": "Стреза",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 628,
+      "slug": "Bodrum",
+      "name_ru": "Бодрум",
+      "stored_experience_count": 40,
+      "tripster_count": 40
+    },
+    {
+      "city_id": 629,
+      "slug": "Sunny_Beach",
+      "name_ru": "Солнечный Берег",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 630,
+      "slug": "Montpellier",
+      "name_ru": "Монпелье",
+      "stored_experience_count": 6,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 633,
+      "slug": "Chekhov",
+      "name_ru": "Чехов",
+      "stored_experience_count": 2,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 634,
+      "slug": "San_Marino",
+      "name_ru": "Сан-Марино",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 635,
+      "slug": "Protaras",
+      "name_ru": "Протарас",
+      "stored_experience_count": 8,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 637,
+      "slug": "Antibes",
+      "name_ru": "Антиб",
+      "stored_experience_count": 2,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 638,
+      "slug": "Sortavala",
+      "name_ru": "Сортавала",
+      "stored_experience_count": 172,
+      "tripster_count": 189
+    },
+    {
+      "city_id": 639,
+      "slug": "Nalchik",
+      "name_ru": "Нальчик",
+      "stored_experience_count": 133,
+      "tripster_count": 145
+    },
+    {
+      "city_id": 640,
+      "slug": "Mineralnye_Vody",
+      "name_ru": "Минеральные Воды",
+      "stored_experience_count": 184,
+      "tripster_count": 90
+    },
+    {
+      "city_id": 642,
+      "slug": "Faro",
+      "name_ru": "Фару",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 643,
+      "slug": "Livorno",
+      "name_ru": "Ливорно",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 644,
+      "slug": "Plovdiv",
+      "name_ru": "Пловдив",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 645,
+      "slug": "Staraya_Russa",
+      "name_ru": "Старая Русса",
+      "stored_experience_count": 8,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 646,
+      "slug": "Yessentuki",
+      "name_ru": "Ессентуки",
+      "stored_experience_count": 192,
+      "tripster_count": 201
+    },
+    {
+      "city_id": 647,
+      "slug": "Kamchatka",
+      "name_ru": "Петропавловск-Камчатский",
+      "stored_experience_count": 180,
+      "tripster_count": 165
+    },
+    {
+      "city_id": 648,
+      "slug": "Cadiz",
+      "name_ru": "Кадис",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 649,
+      "slug": "Portofino",
+      "name_ru": "Портофино",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 650,
+      "slug": "Matera",
+      "name_ru": "Матера",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 652,
+      "slug": "Mykonos",
+      "name_ru": "Миконос",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 653,
+      "slug": "Kanazawa",
+      "name_ru": "Канадзава",
+      "stored_experience_count": 4,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 654,
+      "slug": "Madalena",
+      "name_ru": "Мадалена",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 656,
+      "slug": "Menton",
+      "name_ru": "Ментон",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 657,
+      "slug": "Gagra",
+      "name_ru": "Гагра",
+      "stored_experience_count": 128,
+      "tripster_count": 122
+    },
+    {
+      "city_id": 658,
+      "slug": "Ust_Koksa",
+      "name_ru": "Усть-Кокса",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 659,
+      "slug": "Izola",
+      "name_ru": "Изола",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 660,
+      "slug": "Como",
+      "name_ru": "Комо",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 663,
+      "slug": "Scicli",
+      "name_ru": "Шикли",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 666,
+      "slug": "Cherepovets",
+      "name_ru": "Череповец",
+      "stored_experience_count": 4,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 667,
+      "slug": "York",
+      "name_ru": "Йорк",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 668,
+      "slug": "Bonn",
+      "name_ru": "Бонн",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 669,
+      "slug": "Bishkek",
+      "name_ru": "Бишкек",
+      "stored_experience_count": 124,
+      "tripster_count": 69
+    },
+    {
+      "city_id": 670,
+      "slug": "Tolyatti",
+      "name_ru": "Тольятти",
+      "stored_experience_count": 10,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 671,
+      "slug": "Herceg_Novi",
+      "name_ru": "Херцег-Нови",
+      "stored_experience_count": 13,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 672,
+      "slug": "Stavropol",
+      "name_ru": "Ставрополь",
+      "stored_experience_count": 6,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 673,
+      "slug": "Versailles",
+      "name_ru": "Версаль",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 675,
+      "slug": "Cartagena",
+      "name_ru": "Картахена",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 676,
+      "slug": "Ras_Al_Khaimah",
+      "name_ru": "Рас-эль-Хайма",
+      "stored_experience_count": 35,
+      "tripster_count": 38
+    },
+    {
+      "city_id": 677,
+      "slug": "Giardini_Naxos",
+      "name_ru": "Джардини-Наксос",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 678,
+      "slug": "Khvalynsk",
+      "name_ru": "Хвалынск",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 680,
+      "slug": "Gyumri",
+      "name_ru": "Гюмри",
+      "stored_experience_count": 29,
+      "tripster_count": 30
+    },
+    {
+      "city_id": 681,
+      "slug": "Aleksandrov",
+      "name_ru": "Александров",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 682,
+      "slug": "Ragusa",
+      "name_ru": "Рагуза",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 683,
+      "slug": "Khiva",
+      "name_ru": "Хива",
+      "stored_experience_count": 38,
+      "tripster_count": 41
+    },
+    {
+      "city_id": 684,
+      "slug": "Ottawa",
+      "name_ru": "Оттава",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 685,
+      "slug": "Mahe",
+      "name_ru": "Маэ",
+      "stored_experience_count": 16,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 686,
+      "slug": "Mytishchi",
+      "name_ru": "Мытищи",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 687,
+      "slug": "Auckland",
+      "name_ru": "Окленд",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 689,
+      "slug": "Repino",
+      "name_ru": "Репино",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 691,
+      "slug": "Manchester",
+      "name_ru": "Манчестер",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 693,
+      "slug": "Nevyansk",
+      "name_ru": "Невьянск",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 697,
+      "slug": "Playa_del_Carmen",
+      "name_ru": "Плайя-дель-Кармен",
+      "stored_experience_count": 4,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 699,
+      "slug": "Hangzhou",
+      "name_ru": "Ханчжоу",
+      "stored_experience_count": 11,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 700,
+      "slug": "Kirillov",
+      "name_ru": "Кириллов",
+      "stored_experience_count": 7,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 701,
+      "slug": "Noginsk",
+      "name_ru": "Ногинск",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 703,
+      "slug": "Grasse",
+      "name_ru": "Грасс",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 704,
+      "slug": "Zaraysk",
+      "name_ru": "Зарайск",
+      "stored_experience_count": 23,
+      "tripster_count": 28
+    },
+    {
+      "city_id": 705,
+      "slug": "Sinaia",
+      "name_ru": "Синая",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 707,
+      "slug": "Lipetsk",
+      "name_ru": "Липецк",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 708,
+      "slug": "Danang",
+      "name_ru": "Дананг",
+      "stored_experience_count": 30,
+      "tripster_count": 32
+    },
+    {
+      "city_id": 709,
+      "slug": "Johannesburg",
+      "name_ru": "Йоханнесбург",
+      "stored_experience_count": 2,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 710,
+      "slug": "Manama",
+      "name_ru": "Манама",
+      "stored_experience_count": 24,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 711,
+      "slug": "Punta_del_Este",
+      "name_ru": "Пунта-дель-Эсте",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 713,
+      "slug": "Nazareth",
+      "name_ru": "Назарет",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 714,
+      "slug": "Zvenigorod",
+      "name_ru": "Звенигород",
+      "stored_experience_count": 21,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 715,
+      "slug": "Ponta_Delgada",
+      "name_ru": "Понта-Делгада",
+      "stored_experience_count": 10,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 718,
+      "slug": "Fussen",
+      "name_ru": "Фюссен",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 719,
+      "slug": "Velikiy_Ustyug",
+      "name_ru": "Великий Устюг",
+      "stored_experience_count": 5,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 721,
+      "slug": "Pompei",
+      "name_ru": "Помпеи",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 722,
+      "slug": "Rupit",
+      "name_ru": "Рупит",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 723,
+      "slug": "Izmir",
+      "name_ru": "Измир",
+      "stored_experience_count": 8,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 726,
+      "slug": "Zanzibar",
+      "name_ru": "Занзибар",
+      "stored_experience_count": 46,
+      "tripster_count": 54
+    },
+    {
+      "city_id": 727,
+      "slug": "Cairo",
+      "name_ru": "Каир",
+      "stored_experience_count": 201,
+      "tripster_count": 188
+    },
+    {
+      "city_id": 728,
+      "slug": "Fes",
+      "name_ru": "Фес",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 729,
+      "slug": "Ouranoupoli",
+      "name_ru": "Уранополис",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 730,
+      "slug": "Dmitrov",
+      "name_ru": "Дмитров",
+      "stored_experience_count": 16,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 731,
+      "slug": "Cochin",
+      "name_ru": "Кочин",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 734,
+      "slug": "Positano",
+      "name_ru": "Позитано",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 736,
+      "slug": "Bohol",
+      "name_ru": "Бохол",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 737,
+      "slug": "Obidos",
+      "name_ru": "Обидуш",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 738,
+      "slug": "Podgorica",
+      "name_ru": "Подгорица",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 740,
+      "slug": "Brasilia",
+      "name_ru": "Бразилиа",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 741,
+      "slug": "Maloyaroslavets",
+      "name_ru": "Малоярославец",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 743,
+      "slug": "Tutayev",
+      "name_ru": "Тутаев",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 744,
+      "slug": "Kasimov",
+      "name_ru": "Касимов",
+      "stored_experience_count": 13,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 745,
+      "slug": "Rybinsk",
+      "name_ru": "Рыбинск",
+      "stored_experience_count": 59,
+      "tripster_count": 58
+    },
+    {
+      "city_id": 746,
+      "slug": "Sarapul",
+      "name_ru": "Сарапул",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 748,
+      "slug": "Sysert",
+      "name_ru": "Сысерть",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 750,
+      "slug": "Montevideo",
+      "name_ru": "Монтевидео",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 751,
+      "slug": "Dombay",
+      "name_ru": "посёлок Домбай",
+      "stored_experience_count": 25,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 752,
+      "slug": "Tuapse",
+      "name_ru": "Туапсе",
+      "stored_experience_count": 3,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 753,
+      "slug": "Dubna",
+      "name_ru": "Дубна",
+      "stored_experience_count": 7,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 754,
+      "slug": "Olkhon",
+      "name_ru": "Ольхон",
+      "stored_experience_count": 20,
+      "tripster_count": 24
+    },
+    {
+      "city_id": 755,
+      "slug": "Chita",
+      "name_ru": "Чита",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 756,
+      "slug": "Yegoryevsk",
+      "name_ru": "Егорьевск",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 757,
+      "slug": "Istra",
+      "name_ru": "Истра",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 758,
+      "slug": "Komsomolsk_na_Amure",
+      "name_ru": "Комсомольск-на-Амуре",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 759,
+      "slug": "Odintsovo",
+      "name_ru": "Одинцово",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 760,
+      "slug": "Zelenograd",
+      "name_ru": "Зеленоград",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 761,
+      "slug": "Gorokhovets",
+      "name_ru": "Гороховец",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 762,
+      "slug": "Krasnaya_Polyana",
+      "name_ru": "Красная Поляна",
+      "stored_experience_count": 47,
+      "tripster_count": 66
+    },
+    {
+      "city_id": 764,
+      "slug": "Kashira",
+      "name_ru": "Кашира",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 766,
+      "slug": "Sakhalin",
+      "name_ru": "Южно-Сахалинск",
+      "stored_experience_count": 126,
+      "tripster_count": 136
+    },
+    {
+      "city_id": 767,
+      "slug": "Rezh",
+      "name_ru": "Реж",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 768,
+      "slug": "Klin",
+      "name_ru": "Клин",
+      "stored_experience_count": 13,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 770,
+      "slug": "Sharm_El_Sheikh",
+      "name_ru": "Шарм-эль-Шейх",
+      "stored_experience_count": 186,
+      "tripster_count": 202
+    },
+    {
+      "city_id": 771,
+      "slug": "Bryansk",
+      "name_ru": "Брянск",
+      "stored_experience_count": 2,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 772,
+      "slug": "Sheregesh",
+      "name_ru": "Шерегеш",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 773,
+      "slug": "Bolkhov",
+      "name_ru": "Болхов",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 774,
+      "slug": "Mtsensk",
+      "name_ru": "Мценск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 775,
+      "slug": "Listvyanka",
+      "name_ru": "Листвянка",
+      "stored_experience_count": 6,
+      "tripster_count": 11
+    },
+    {
+      "city_id": 776,
+      "slug": "Rzhev",
+      "name_ru": "Ржев",
+      "stored_experience_count": 1,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 778,
+      "slug": "Engels",
+      "name_ru": "Энгельс",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 779,
+      "slug": "Aktash",
+      "name_ru": "Акташ",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 780,
+      "slug": "Georgiyevsk",
+      "name_ru": "Георгиевск",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 781,
+      "slug": "Severobaykalsk",
+      "name_ru": "Северобайкальск",
+      "stored_experience_count": 4,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 782,
+      "slug": "Kandalaksha",
+      "name_ru": "Кандалакша",
+      "stored_experience_count": 18,
+      "tripster_count": 20
+    },
+    {
+      "city_id": 783,
+      "slug": "Venev",
+      "name_ru": "Венёв",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 785,
+      "slug": "Maykop",
+      "name_ru": "Майкоп",
+      "stored_experience_count": 27,
+      "tripster_count": 31
+    },
+    {
+      "city_id": 787,
+      "slug": "Novocherkassk",
+      "name_ru": "Новочеркасск",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 788,
+      "slug": "Dagomys",
+      "name_ru": "Дагомыс",
+      "stored_experience_count": 4,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 789,
+      "slug": "Innopolis",
+      "name_ru": "Иннополис",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 791,
+      "slug": "Ust-Barguzin",
+      "name_ru": "Усть-Баргузин",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 792,
+      "slug": "Lahdenpokhya",
+      "name_ru": "Лахденпохья",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 794,
+      "slug": "Kineshma",
+      "name_ru": "Кинешма",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 796,
+      "slug": "Dahab",
+      "name_ru": "Дахаб",
+      "stored_experience_count": 8,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 797,
+      "slug": "Katerini",
+      "name_ru": "Катерини",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 798,
+      "slug": "Syzran",
+      "name_ru": "Сызрань",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 799,
+      "slug": "Arkhyz",
+      "name_ru": "Архыз",
+      "stored_experience_count": 23,
+      "tripster_count": 27
+    },
+    {
+      "city_id": 800,
+      "slug": "Lytkarino",
+      "name_ru": "Лыткарино",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 801,
+      "slug": "Birobidzhan",
+      "name_ru": "Биробиджан",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 802,
+      "slug": "Luxor",
+      "name_ru": "Луксор",
+      "stored_experience_count": 23,
+      "tripster_count": 21
+    },
+    {
+      "city_id": 803,
+      "slug": "Tulum",
+      "name_ru": "Тулум",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 804,
+      "slug": "Gus_Khrustalny",
+      "name_ru": "Гусь-Хрустальный",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 805,
+      "slug": "Dalnegorsk",
+      "name_ru": "Дальнегорск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 806,
+      "slug": "Korolyov",
+      "name_ru": "Королёв",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 807,
+      "slug": "Alexandria",
+      "name_ru": "Александрия",
+      "stored_experience_count": 9,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 808,
+      "slug": "Weligama",
+      "name_ru": "Велигама",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 809,
+      "slug": "Galle",
+      "name_ru": "Галле",
+      "stored_experience_count": 17,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 811,
+      "slug": "Tikhvin",
+      "name_ru": "Тихвин",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 812,
+      "slug": "Medvezhyegorsk",
+      "name_ru": "Медвежьегорск",
+      "stored_experience_count": 8,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 813,
+      "slug": "Loo",
+      "name_ru": "Лоо",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 816,
+      "slug": "Apatity",
+      "name_ru": "Апатиты",
+      "stored_experience_count": 4,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 818,
+      "slug": "Ohrid",
+      "name_ru": "Охрид",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 819,
+      "slug": "Kalutara",
+      "name_ru": "Калутара",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 820,
+      "slug": "Panama",
+      "name_ru": "Панама",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 821,
+      "slug": "Puerto_Plata",
+      "name_ru": "Пуэрто-Плата",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 822,
+      "slug": "Vyazma",
+      "name_ru": "Вязьма",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 823,
+      "slug": "Amman",
+      "name_ru": "Амман",
+      "stored_experience_count": 11,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 824,
+      "slug": "Syktyvkar",
+      "name_ru": "Сыктывкар",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 825,
+      "slug": "Piran",
+      "name_ru": "Пиран",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 826,
+      "slug": "Medellin",
+      "name_ru": "Медельин",
+      "stored_experience_count": 2,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 828,
+      "slug": "Marsa_Alam",
+      "name_ru": "Марса-Алам",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 829,
+      "slug": "Kusadasi",
+      "name_ru": "Кушадасы",
+      "stored_experience_count": 6,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 830,
+      "slug": "Orekhovo_Zuyevo",
+      "name_ru": "Орехово-Зуево",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 831,
+      "slug": "Pudozh",
+      "name_ru": "Пудож",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 832,
+      "slug": "Kimry",
+      "name_ru": "Кимры",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 833,
+      "slug": "Izberbash",
+      "name_ru": "Избербаш",
+      "stored_experience_count": 52,
+      "tripster_count": 53
+    },
+    {
+      "city_id": 834,
+      "slug": "Kaspiysk",
+      "name_ru": "Каспийск",
+      "stored_experience_count": 61,
+      "tripster_count": 69
+    },
+    {
+      "city_id": 835,
+      "slug": "Kokand",
+      "name_ru": "Коканд",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 836,
+      "slug": "Priozersk",
+      "name_ru": "Приозерск",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 837,
+      "slug": "Osh",
+      "name_ru": "Ош",
+      "stored_experience_count": 10,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 839,
+      "slug": "Cholpon_Ata",
+      "name_ru": "Чолпон-Ата",
+      "stored_experience_count": 13,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 840,
+      "slug": "Kalyazin",
+      "name_ru": "Калязин",
+      "stored_experience_count": 10,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 841,
+      "slug": "Kabardinka",
+      "name_ru": "Кабардинка",
+      "stored_experience_count": 7,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 842,
+      "slug": "New_Athos",
+      "name_ru": "Новый Афон",
+      "stored_experience_count": 16,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 843,
+      "slug": "Tarusa",
+      "name_ru": "Таруса",
+      "stored_experience_count": 19,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 844,
+      "slug": "Kargopol",
+      "name_ru": "Каргополь",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 845,
+      "slug": "Kashin",
+      "name_ru": "Кашин",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 846,
+      "slug": "Zelenogorsk",
+      "name_ru": "Зеленогорск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 847,
+      "slug": "Suoyarvi",
+      "name_ru": "Суоярви",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 848,
+      "slug": "Sestroretsk",
+      "name_ru": "Сестрорецк",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 849,
+      "slug": "Mogilev",
+      "name_ru": "Могилёв",
+      "stored_experience_count": 9,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 850,
+      "slug": "Balashikha",
+      "name_ru": "Балашиха",
+      "stored_experience_count": 2,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 851,
+      "slug": "Surgut",
+      "name_ru": "Сургут",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 852,
+      "slug": "Volokolamsk",
+      "name_ru": "Волоколамск",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 854,
+      "slug": "Asuan",
+      "name_ru": "Асуан",
+      "stored_experience_count": 6,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 857,
+      "slug": "Dushanbe",
+      "name_ru": "Душанбе",
+      "stored_experience_count": 28,
+      "tripster_count": 26
+    },
+    {
+      "city_id": 858,
+      "slug": "Doha",
+      "name_ru": "Доха",
+      "stored_experience_count": 70,
+      "tripster_count": 74
+    },
+    {
+      "city_id": 860,
+      "slug": "Rabat",
+      "name_ru": "Рабат",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 861,
+      "slug": "Cartagena_de_Indias",
+      "name_ru": "Картахена",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 863,
+      "slug": "Dammam",
+      "name_ru": "Даммам",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 864,
+      "slug": "Kas",
+      "name_ru": "Каш",
+      "stored_experience_count": 8,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 865,
+      "slug": "Obninsk",
+      "name_ru": "Обнинск",
+      "stored_experience_count": 12,
+      "tripster_count": 13
+    },
+    {
+      "city_id": 867,
+      "slug": "Dilijan",
+      "name_ru": "Дилижан",
+      "stored_experience_count": 9,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 868,
+      "slug": "Agra",
+      "name_ru": "Агра",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 869,
+      "slug": "Jaipur",
+      "name_ru": "Джайпур",
+      "stored_experience_count": 10,
+      "tripster_count": 9
+    },
+    {
+      "city_id": 870,
+      "slug": "Vanadzor",
+      "name_ru": "Ванадзор",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 871,
+      "slug": "Oludeniz",
+      "name_ru": "Олюдениз",
+      "stored_experience_count": 5,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 872,
+      "slug": "Bangalor",
+      "name_ru": "Бангалор",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 874,
+      "slug": "Kizlyar",
+      "name_ru": "Кизляр",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 875,
+      "slug": "Pinsk",
+      "name_ru": "Пинск",
+      "stored_experience_count": 2,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 877,
+      "slug": "Zhukovsky",
+      "name_ru": "Жуковский",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 879,
+      "slug": "Kyzyl",
+      "name_ru": "Кызыл",
+      "stored_experience_count": 1,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 880,
+      "slug": "Khajuraho",
+      "name_ru": "Кхаджурахо",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 881,
+      "slug": "Chennai",
+      "name_ru": "Ченнаи",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 882,
+      "slug": "Sanya",
+      "name_ru": "Санья",
+      "stored_experience_count": 42,
+      "tripster_count": 45
+    },
+    {
+      "city_id": 883,
+      "slug": "Kozelsk",
+      "name_ru": "Козельск",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 884,
+      "slug": "Varanasi",
+      "name_ru": "Варанаси",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 885,
+      "slug": "Marbella",
+      "name_ru": "Марбелья",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 886,
+      "slug": "Ulan_Bator",
+      "name_ru": "Улан-Батор",
+      "stored_experience_count": 23,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 887,
+      "slug": "Dalaman",
+      "name_ru": "Даламан",
+      "stored_experience_count": 7,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 890,
+      "slug": "Kayseri",
+      "name_ru": "Кайсери",
+      "stored_experience_count": 4,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 891,
+      "slug": "Rabocheostrovsk",
+      "name_ru": "Рабочеостровск",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 892,
+      "slug": "Windhoek",
+      "name_ru": "Виндхук",
+      "stored_experience_count": 4,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 893,
+      "slug": "Kurilsk",
+      "name_ru": "Курильск",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 894,
+      "slug": "Ubud",
+      "name_ru": "Убуд",
+      "stored_experience_count": 23,
+      "tripster_count": 22
+    },
+    {
+      "city_id": 895,
+      "slug": "Varkala",
+      "name_ru": "Варкала",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 896,
+      "slug": "Macau",
+      "name_ru": "Макао",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 897,
+      "slug": "Blagoveshchensk",
+      "name_ru": "Благовещенск",
+      "stored_experience_count": 14,
+      "tripster_count": 20
+    },
+    {
+      "city_id": 899,
+      "slug": "Sian",
+      "name_ru": "Сиань",
+      "stored_experience_count": 16,
+      "tripster_count": 17
+    },
+    {
+      "city_id": 900,
+      "slug": "Toropets",
+      "name_ru": "Торопец",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 901,
+      "slug": "Wismar",
+      "name_ru": "Висмар",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 903,
+      "slug": "Velsk",
+      "name_ru": "Вельск",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 904,
+      "slug": "Magadan",
+      "name_ru": "Магадан",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 905,
+      "slug": "Dharamsala",
+      "name_ru": "Дхарамсала",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 906,
+      "slug": "Aktau",
+      "name_ru": "Актау",
+      "stored_experience_count": 25,
+      "tripster_count": 18
+    },
+    {
+      "city_id": 907,
+      "slug": "Schwerin",
+      "name_ru": "Шверин",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 908,
+      "slug": "Langkawi",
+      "name_ru": "Лангкави",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 909,
+      "slug": "Sirmione",
+      "name_ru": "Сирмионе",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 910,
+      "slug": "Incheon",
+      "name_ru": "Инчхон",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 911,
+      "slug": "Svanetia",
+      "name_ru": "Сванетия",
+      "stored_experience_count": 2,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 912,
+      "slug": "Montblanc",
+      "name_ru": "Монблан",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 913,
+      "slug": "Antananarivo",
+      "name_ru": "Антананариву",
+      "stored_experience_count": 4,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 914,
+      "slug": "Haarlem",
+      "name_ru": "Харлем",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 915,
+      "slug": "Taipei",
+      "name_ru": "Тайбэй",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 917,
+      "slug": "Pamukkale",
+      "name_ru": "Памуккале",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 919,
+      "slug": "Flensburg",
+      "name_ru": "Фленсбург",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 920,
+      "slug": "Sremski_Karlovci",
+      "name_ru": "Сремски-Карловци",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 923,
+      "slug": "Almetevsk",
+      "name_ru": "Альметьевск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 925,
+      "slug": "Zhangjiajie",
+      "name_ru": "Чжанцзяцзе",
+      "stored_experience_count": 9,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 926,
+      "slug": "Luangprabang",
+      "name_ru": "Луангпрабанг",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 927,
+      "slug": "Jeddah",
+      "name_ru": "Джидда",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 928,
+      "slug": "Mdina",
+      "name_ru": "Мдина",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 929,
+      "slug": "Buffalo",
+      "name_ru": "Буффало",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 930,
+      "slug": "Solotcha",
+      "name_ru": "Солотча",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 931,
+      "slug": "Chernogolovka",
+      "name_ru": "Черноголовка",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 932,
+      "slug": "Sterlitamak",
+      "name_ru": "Стерлитамак",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 933,
+      "slug": "Urbino",
+      "name_ru": "Урбино",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 934,
+      "slug": "Turkestan",
+      "name_ru": "Туркестан",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 935,
+      "slug": "Khujand",
+      "name_ru": "Худжанд",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 936,
+      "slug": "Ussuriysk",
+      "name_ru": "Уссурийск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 937,
+      "slug": "Ancona",
+      "name_ru": "Анкона",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 938,
+      "slug": "Bursa",
+      "name_ru": "Бурса",
+      "stored_experience_count": 2,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 939,
+      "slug": "Calgary",
+      "name_ru": "Калгари",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 940,
+      "slug": "Shamakhi",
+      "name_ru": "Шемаха",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 941,
+      "slug": "Kauai",
+      "name_ru": "Кауаи",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 942,
+      "slug": "Tulon",
+      "name_ru": "Тулон",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 943,
+      "slug": "Santiago",
+      "name_ru": "Сантьяго",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 944,
+      "slug": "Shlisselburg",
+      "name_ru": "Шлиссельбург",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 945,
+      "slug": "Lenkoran",
+      "name_ru": "Ленкорань",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 946,
+      "slug": "Zaragoza",
+      "name_ru": "Сарагоса",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 948,
+      "slug": "Desenzano_del_Garda",
+      "name_ru": "Дезенцано-дель-Гарда",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 949,
+      "slug": "Lida",
+      "name_ru": "Лида",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 950,
+      "slug": "Labuhanbajo",
+      "name_ru": "Лабуханбаджо",
+      "stored_experience_count": 2,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 951,
+      "slug": "Chengdu",
+      "name_ru": "Чэнду",
+      "stored_experience_count": 26,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 953,
+      "slug": "Fujairah",
+      "name_ru": "Фуджейра",
+      "stored_experience_count": 26,
+      "tripster_count": 26
+    },
+    {
+      "city_id": 954,
+      "slug": "Epernay",
+      "name_ru": "Эперне",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 955,
+      "slug": "Teberda",
+      "name_ru": "Теберда",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 957,
+      "slug": "Nikosia",
+      "name_ru": "Никосия",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 958,
+      "slug": "Ozery",
+      "name_ru": "Озёры",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 959,
+      "slug": "Riyadh",
+      "name_ru": "Эр-Рияд",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 961,
+      "slug": "Sao_Paulo",
+      "name_ru": "Сан-Паулу",
+      "stored_experience_count": 7,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 962,
+      "slug": "Chernyakhovsk",
+      "name_ru": "Черняховск",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 963,
+      "slug": "Dordrecht",
+      "name_ru": "Дордрехт",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 964,
+      "slug": "Port_Blair",
+      "name_ru": "Порт-Блэр",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 965,
+      "slug": "Kunming",
+      "name_ru": "Куньмин",
+      "stored_experience_count": 4,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 966,
+      "slug": "Subotica",
+      "name_ru": "Суботица",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 967,
+      "slug": "Neftekamsk",
+      "name_ru": "Нефтекамск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 968,
+      "slug": "Saraevo",
+      "name_ru": "Сараево",
+      "stored_experience_count": 18,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 969,
+      "slug": "Hoorn",
+      "name_ru": "Хорн",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 970,
+      "slug": "Terskol",
+      "name_ru": "Терскол",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 972,
+      "slug": "Manzherok",
+      "name_ru": "Манжерок",
+      "stored_experience_count": 44,
+      "tripster_count": 50
+    },
+    {
+      "city_id": 974,
+      "slug": "Likino_Dulyovo",
+      "name_ru": "Ликино-Дулёво",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 975,
+      "slug": "Jeju",
+      "name_ru": "Чеджу",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 977,
+      "slug": "Puerto_Montt",
+      "name_ru": "Пуэрто-Монт",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 979,
+      "slug": "Kungur",
+      "name_ru": "Кунгур",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 980,
+      "slug": "Benidorm",
+      "name_ru": "Бенидорм",
+      "stored_experience_count": 8,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 981,
+      "slug": "Shymkent",
+      "name_ru": "Шымкент",
+      "stored_experience_count": 9,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 982,
+      "slug": "Ruza",
+      "name_ru": "Руза",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 983,
+      "slug": "Cam_Ranh",
+      "name_ru": "Камрань",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 984,
+      "slug": "Gothenburg",
+      "name_ru": "Гётеборг",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 985,
+      "slug": "Katowice",
+      "name_ru": "Катовице",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 986,
+      "slug": "Ferghana",
+      "name_ru": "Фергана",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 987,
+      "slug": "Pionersky",
+      "name_ru": "Пионерский",
+      "stored_experience_count": 14,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 988,
+      "slug": "Vang_Vieng",
+      "name_ru": "Ванг Вьенг",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 989,
+      "slug": "Solovetsky_Islands",
+      "name_ru": "Соловецкие острова",
+      "stored_experience_count": 7,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 990,
+      "slug": "Mantua",
+      "name_ru": "Мантуя",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 991,
+      "slug": "Dzerzhinsk",
+      "name_ru": "Дзержинск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 992,
+      "slug": "Panglao",
+      "name_ru": "Панглао",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 993,
+      "slug": "Vicenza",
+      "name_ru": "Виченца",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 995,
+      "slug": "Pistoia",
+      "name_ru": "Пистоя",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 996,
+      "slug": "Sumgayit",
+      "name_ru": "Сумгаит",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 997,
+      "slug": "Sudogda",
+      "name_ru": "Судогда",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 998,
+      "slug": "Ganja",
+      "name_ru": "Гянджа",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 999,
+      "slug": "Osaka",
+      "name_ru": "Осака",
+      "stored_experience_count": 26,
+      "tripster_count": 23
+    },
+    {
+      "city_id": 1000,
+      "slug": "Arezzo",
+      "name_ru": "Ареццо",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1001,
+      "slug": "Demre",
+      "name_ru": "Демре",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1002,
+      "slug": "Nevsehir",
+      "name_ru": "Невшехир",
+      "stored_experience_count": 5,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1003,
+      "slug": "Naberezhnye_Chelny",
+      "name_ru": "Набережные Челны",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1004,
+      "slug": "Glazov",
+      "name_ru": "Глазов",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1005,
+      "slug": "Peterhof",
+      "name_ru": "Петергоф",
+      "stored_experience_count": 10,
+      "tripster_count": 15
+    },
+    {
+      "city_id": 1007,
+      "slug": "Lodeynoye_Pole",
+      "name_ru": "Лодейное Поле",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1008,
+      "slug": "Nagoya",
+      "name_ru": "Нагоя",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 1009,
+      "slug": "Philadelphia",
+      "name_ru": "Филадельфия",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1010,
+      "slug": "Ushuaia",
+      "name_ru": "Ушуайя",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1011,
+      "slug": "Mendoza",
+      "name_ru": "Мендоса",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1012,
+      "slug": "Nara",
+      "name_ru": "Нара",
+      "stored_experience_count": 6,
+      "tripster_count": 7
+    },
+    {
+      "city_id": 1013,
+      "slug": "Yelizovo",
+      "name_ru": "Елизово",
+      "stored_experience_count": 10,
+      "tripster_count": 8
+    },
+    {
+      "city_id": 1015,
+      "slug": "Lukhovitsy",
+      "name_ru": "Луховицы",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1016,
+      "slug": "Montepulciano",
+      "name_ru": "Монтепульчано",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1017,
+      "slug": "Urganch",
+      "name_ru": "Ургенч",
+      "stored_experience_count": 4,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1018,
+      "slug": "Guilin",
+      "name_ru": "Гуйлинь",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1019,
+      "slug": "Pitkyaranta",
+      "name_ru": "Питкяранта",
+      "stored_experience_count": 3,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1020,
+      "slug": "Cortona",
+      "name_ru": "Кортона",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1021,
+      "slug": "Diyarbakir",
+      "name_ru": "Диярбакыр",
+      "stored_experience_count": 3,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1023,
+      "slug": "Hunchun",
+      "name_ru": "Хуньчунь",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1024,
+      "slug": "Kem",
+      "name_ru": "Кемь",
+      "stored_experience_count": 6,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1026,
+      "slug": "Harlingen",
+      "name_ru": "Харлинген",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1027,
+      "slug": "Safaga",
+      "name_ru": "Сафага",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 1028,
+      "slug": "Balakhna",
+      "name_ru": "Балахна",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1029,
+      "slug": "Polignano_a_Mare",
+      "name_ru": "Полиньяно-а-Маре",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1032,
+      "slug": "Arona",
+      "name_ru": "Арона",
+      "stored_experience_count": 2,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1033,
+      "slug": "Yukhnov",
+      "name_ru": "Юхнов",
+      "stored_experience_count": 3,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1034,
+      "slug": "Novyj_Urengoj",
+      "name_ru": "Новый Уренгой",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1070,
+      "slug": "Chongqing",
+      "name_ru": "Чунцин",
+      "stored_experience_count": 14,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 1071,
+      "slug": "Tubingen",
+      "name_ru": "Тюбинген",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1072,
+      "slug": "Yogyakarta",
+      "name_ru": "Джокьякарта",
+      "stored_experience_count": 6,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1073,
+      "slug": "Antarctica",
+      "name_ru": "Антарктида",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1074,
+      "slug": "Heidelberg",
+      "name_ru": "Хайдельберг",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1107,
+      "slug": "San_Jose",
+      "name_ru": "Сан-Хосе",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1108,
+      "slug": "Foz_do_Iguacu",
+      "name_ru": "Фос-ду-Игуасу",
+      "stored_experience_count": 3,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1109,
+      "slug": "Udine",
+      "name_ru": "Удине",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1110,
+      "slug": "Aquileia",
+      "name_ru": "Аквилея",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1111,
+      "slug": "Ashgabat",
+      "name_ru": "Ашхабад",
+      "stored_experience_count": 6,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1112,
+      "slug": "Bobbio",
+      "name_ru": "Боббио",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1113,
+      "slug": "Pitigliano",
+      "name_ru": "Питильяно",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1116,
+      "slug": "Gorizia",
+      "name_ru": "Гориция",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1117,
+      "slug": "Nafplion",
+      "name_ru": "Нафплион",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1119,
+      "slug": "Kawagoe",
+      "name_ru": "Кавагоэ",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1120,
+      "slug": "Set",
+      "name_ru": "Сет",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1121,
+      "slug": "Piacenza",
+      "name_ru": "Пьяченца",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1122,
+      "slug": "Narvik",
+      "name_ru": "Нарвик",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1123,
+      "slug": "Fukuoka",
+      "name_ru": "Фукуока",
+      "stored_experience_count": 6,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 1124,
+      "slug": "Sighisoara",
+      "name_ru": "Сигишоара",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1126,
+      "slug": "Jakarta",
+      "name_ru": "Джакарта",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1127,
+      "slug": "Amasra",
+      "name_ru": "Амасра",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1128,
+      "slug": "Sopot",
+      "name_ru": "Сопот",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1129,
+      "slug": "Colonia_del_Sacramento",
+      "name_ru": "Колония-дель-Сакраменто",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1132,
+      "slug": "Hoi_An",
+      "name_ru": "Хойан",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1133,
+      "slug": "Kumamoto",
+      "name_ru": "Кумамото",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1134,
+      "slug": "Braslav",
+      "name_ru": "Браслав",
+      "stored_experience_count": 3,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1135,
+      "slug": "Salala",
+      "name_ru": "Салала",
+      "stored_experience_count": 7,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 1136,
+      "slug": "Pella",
+      "name_ru": "Пелла",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1137,
+      "slug": "Novogrudok",
+      "name_ru": "Новогрудок",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1138,
+      "slug": "Baltiysk",
+      "name_ru": "Балтийск",
+      "stored_experience_count": 14,
+      "tripster_count": 16
+    },
+    {
+      "city_id": 1139,
+      "slug": "Patry",
+      "name_ru": "Патры",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1141,
+      "slug": "Zaslawye",
+      "name_ru": "Заславль",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1142,
+      "slug": "Slutsk",
+      "name_ru": "Слуцк",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1143,
+      "slug": "Vilyeyka",
+      "name_ru": "Вилейка",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1144,
+      "slug": "Novolukoml",
+      "name_ru": "Новолукомль",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1146,
+      "slug": "Maksimikha",
+      "name_ru": "Максимиха",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1148,
+      "slug": "La_Spezia",
+      "name_ru": "Ла Специя",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1149,
+      "slug": "Sharkovshchina",
+      "name_ru": "Шарковщина",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1150,
+      "slug": "Ijevan",
+      "name_ru": "Иджеван",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1151,
+      "slug": "Kranj",
+      "name_ru": "Крань",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1152,
+      "slug": "Troitsk",
+      "name_ru": "Троицк",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1154,
+      "slug": "Finike",
+      "name_ru": "Финике",
+      "stored_experience_count": 3,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1155,
+      "slug": "Yantarny",
+      "name_ru": "Янтарный",
+      "stored_experience_count": 25,
+      "tripster_count": 25
+    },
+    {
+      "city_id": 1156,
+      "slug": "Belfast",
+      "name_ru": "Белфаст",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1158,
+      "slug": "El_Alamein",
+      "name_ru": "Эль-Аламейн",
+      "stored_experience_count": 10,
+      "tripster_count": 10
+    },
+    {
+      "city_id": 1159,
+      "slug": "Mersa_Matruh",
+      "name_ru": "Мерса-Матрух",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1160,
+      "slug": "Sousse",
+      "name_ru": "Сус",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1161,
+      "slug": "Etchmiadzin",
+      "name_ru": "Эчмиадзин",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1163,
+      "slug": "Ramenskoye",
+      "name_ru": "Раменское",
+      "stored_experience_count": 1,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1164,
+      "slug": "Beppu",
+      "name_ru": "Беппу",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1166,
+      "slug": "Gudauta",
+      "name_ru": "Гудаута",
+      "stored_experience_count": 12,
+      "tripster_count": 12
+    },
+    {
+      "city_id": 1167,
+      "slug": "Karakol",
+      "name_ru": "Каракол",
+      "stored_experience_count": 4,
+      "tripster_count": 4
+    },
+    {
+      "city_id": 1168,
+      "slug": "Borovoye",
+      "name_ru": "Боровое",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 1170,
+      "slug": "Miory",
+      "name_ru": "Миоры",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1171,
+      "slug": "Puerto_Iguasu",
+      "name_ru": "Пуэрто-Игуасу",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1172,
+      "slug": "Shizuoka",
+      "name_ru": "Сидзуока",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1173,
+      "slug": "Borjomi",
+      "name_ru": "Боржоми",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1174,
+      "slug": "Tangier",
+      "name_ru": "Танжер",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1175,
+      "slug": "Lecco",
+      "name_ru": "Лекко",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1176,
+      "slug": "Palawan",
+      "name_ru": "Палаван",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1177,
+      "slug": "Sapporo",
+      "name_ru": "Саппоро",
+      "stored_experience_count": 3,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1179,
+      "slug": "Parma",
+      "name_ru": "Парма",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1180,
+      "slug": "Boracay",
+      "name_ru": "Боракай",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1181,
+      "slug": "San_Sebastian_De_La_Gomera",
+      "name_ru": "Сан-Себастьян-де-ла-Гомера",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1184,
+      "slug": "Dauin",
+      "name_ru": "Дауин",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1188,
+      "slug": "Oskemen",
+      "name_ru": "Усть-Каменогорск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1189,
+      "slug": "Kalambaka",
+      "name_ru": "Каламбака",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1190,
+      "slug": "Paratunka",
+      "name_ru": "Паратунка",
+      "stored_experience_count": 18,
+      "tripster_count": 19
+    },
+    {
+      "city_id": 1191,
+      "slug": "Brisbane",
+      "name_ru": "Брисбен",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1192,
+      "slug": "Kajaani",
+      "name_ru": "Каяни",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1193,
+      "slug": "Novaya_Chara",
+      "name_ru": "Новая Чара",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1194,
+      "slug": "Konstanz",
+      "name_ru": "Констанц",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1195,
+      "slug": "Paro",
+      "name_ru": "Паро",
+      "stored_experience_count": 4,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1196,
+      "slug": "Hiroshima",
+      "name_ru": "Хиросима",
+      "stored_experience_count": 4,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1198,
+      "slug": "Uji",
+      "name_ru": "Удзи",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1199,
+      "slug": "Rudesheim",
+      "name_ru": "Рюдесхайм",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1200,
+      "slug": "Lahore",
+      "name_ru": "Лахор",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1201,
+      "slug": "Pavlovsk",
+      "name_ru": "Павловск",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1202,
+      "slug": "Unawatuna",
+      "name_ru": "Унаватуна",
+      "stored_experience_count": 3,
+      "tripster_count": 3
+    },
+    {
+      "city_id": 1203,
+      "slug": "Mirissa",
+      "name_ru": "Мирисса",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1206,
+      "slug": "Busan",
+      "name_ru": "Пусан",
+      "stored_experience_count": 4,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 1207,
+      "slug": "Shenzhen",
+      "name_ru": "Шэньчжэнь",
+      "stored_experience_count": 14,
+      "tripster_count": 14
+    },
+    {
+      "city_id": 1208,
+      "slug": "Mihas",
+      "name_ru": "Михас",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1209,
+      "slug": "Tronheim",
+      "name_ru": "Тронхейм",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1210,
+      "slug": "Krasnogorsk",
+      "name_ru": "Красногорск",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1211,
+      "slug": "Asuncion",
+      "name_ru": "Асунсьон",
+      "stored_experience_count": 2,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1212,
+      "slug": "Nukus",
+      "name_ru": "Нукус",
+      "stored_experience_count": 3,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1213,
+      "slug": "Tskhinvali",
+      "name_ru": "Цхинвал",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1214,
+      "slug": "Termez",
+      "name_ru": "Термез",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1215,
+      "slug": "Houston",
+      "name_ru": "Хьюстон",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1216,
+      "slug": "Ashtarak",
+      "name_ru": "Аштарак",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1217,
+      "slug": "Ferrara",
+      "name_ru": "Феррара",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1218,
+      "slug": "Denver",
+      "name_ru": "Денвер",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1220,
+      "slug": "Harbin",
+      "name_ru": "Харбин",
+      "stored_experience_count": 5,
+      "tripster_count": 6
+    },
+    {
+      "city_id": 1221,
+      "slug": "Sorong",
+      "name_ru": "Соронг",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1222,
+      "slug": "Haikou",
+      "name_ru": "Хайкоу",
+      "stored_experience_count": 5,
+      "tripster_count": 5
+    },
+    {
+      "city_id": 1223,
+      "slug": "Dzhermuk",
+      "name_ru": "Джермук",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1224,
+      "slug": "Vidnoe",
+      "name_ru": "Видное",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1225,
+      "slug": "Manavgat",
+      "name_ru": "Манавгат",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1226,
+      "slug": "Angra_do_Heroismo",
+      "name_ru": "Ангра-ду-Эроишму",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1227,
+      "slug": "Kudymkar",
+      "name_ru": "Кудымкар",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1260,
+      "slug": "Lyubertsy",
+      "name_ru": "Люберцы",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1261,
+      "slug": "Al_Ain",
+      "name_ru": "Аль-Айн",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1262,
+      "slug": "Poznan",
+      "name_ru": "Познань",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1263,
+      "slug": "Kiruna",
+      "name_ru": "Кируна",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1264,
+      "slug": "Charleroi",
+      "name_ru": "Шарлеруа",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1265,
+      "slug": "Keflavik",
+      "name_ru": "Кеблавик",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1266,
+      "slug": "Lamezia",
+      "name_ru": "Ламеция",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1267,
+      "slug": "Zakynthos",
+      "name_ru": "Закинтос",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1268,
+      "slug": "Chambery",
+      "name_ru": "Шамбери",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1269,
+      "slug": "Angeles",
+      "name_ru": "Анхелес",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1271,
+      "slug": "Memmingen",
+      "name_ru": "Мемминген",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1272,
+      "slug": "Vetse",
+      "name_ru": "Веце",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1273,
+      "slug": "Castello_de_la_Plana",
+      "name_ru": "Кастельон-де-ла-Плана",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1275,
+      "slug": "Cuenca",
+      "name_ru": "Куэнка",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1276,
+      "slug": "Baguio",
+      "name_ru": "Багио",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1277,
+      "slug": "Kurgan",
+      "name_ru": "Курган",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1278,
+      "slug": "Carcasson",
+      "name_ru": "Каркассон",
+      "stored_experience_count": 2,
+      "tripster_count": 2
+    },
+    {
+      "city_id": 1279,
+      "slug": "Solnechnogorsk",
+      "name_ru": "Солнечногорск",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1280,
+      "slug": "Khimki",
+      "name_ru": "Химки",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1281,
+      "slug": "Urumqi",
+      "name_ru": "Урумчи",
+      "stored_experience_count": 1,
+      "tripster_count": 0
+    },
+    {
+      "city_id": 1282,
+      "slug": "Lyskovo",
+      "name_ru": "Лысково",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1283,
+      "slug": "Paraty",
+      "name_ru": "Парати",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1284,
+      "slug": "Gzhel",
+      "name_ru": "Гжель",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1285,
+      "slug": "Toksovo",
+      "name_ru": "Токсово",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1286,
+      "slug": "Amboise",
+      "name_ru": "Амбуаз",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    },
+    {
+      "city_id": 1287,
+      "slug": "Palekh",
+      "name_ru": "Палех",
+      "stored_experience_count": 1,
+      "tripster_count": 1
+    }
+  ],
+  "errors": []
+}

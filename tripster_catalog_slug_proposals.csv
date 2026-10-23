@@ -1,0 +1,192 @@
+﻿approve;tripster_tag_id;tripster_slug;tripster_name;cities_count;tripster_is_common;catalog_id;catalog_sub_slug;catalog_main_name;catalog_sub_name;match_source;similarity
+;1;obzornyie;Обзорные;816;True;20;obzornye;Формат;Обзорные;normalized_slug;1.0
+;2;istoriya-i-arhitektura;История и архитектура;697;True;152;istoriya-i-arhitektura;Архитектура;История и архитектура;exact_slug;1.0
+;2;istoriya-i-arhitektura;История и архитектура;697;True;145;istoriya-i-arhitektura;Исторические;История и архитектура;exact_slug;1.0
+;2;istoriya-i-arhitektura;История и архитектура;697;True;15;istoriya-i-arhitektura;Формат;История и архитектура;exact_slug;1.0
+;750;peshehodnyie;Пешком;680;True;48;peshehodnye;На чём;Пешеходные;normalized_slug;1.0
+;3866;uvidet-samoe-glavnoe;Увидеть главное;672;True;330;uvidet-glavnoe;Под настроение;Увидеть главное;similar_slug;0.8387
+;6314;peshehodnye;Пешеходные;666;True;48;peshehodnye;На чём;Пешеходные;exact_slug;1.0
+;9825;gorodskie-ekskursii;Городские экскурсии;628;True;318;gorodskie-ekskursii;Формат;Городские экскурсии;exact_slug;1.0
+;114;vechernie;Вечерние;603;True;65;vechernie;Время дня и года;Вечерние;exact_slug;1.0
+;7;za-gorodom;За городом;600;True;336;za-gorodom;Природа и пейзажи;За городом;exact_slug;1.0
+;7;za-gorodom;За городом;600;True;353;za-gorodom;Выездные;За городом;exact_slug;1.0
+;8671;avtorskie-tury;Авторские туры;545;True;8;avtorskie;Формат;Авторские;similar_slug;0.8182
+;120;monastyri-cerkvi-hramy;Монастыри, церкви, храмы;543;True;176;monastyri-cerkvi-hramy;Святые места;Монастыри, церкви, храмы;exact_slug;1.0
+;120;monastyri-cerkvi-hramy;Монастыри, церкви, храмы;543;True;153;monastyri-cerkvi-hramy;Архитектура;Монастыри, церкви, храмы;exact_slug;1.0
+;120;monastyri-cerkvi-hramy;Монастыри, церкви, храмы;543;True;95;monastyri-cerkvi-hramy;Тематические;Монастыри, церкви, храмы;exact_slug;1.0
+;2263;dlya-inostrancev;Для иностранцев;505;True;30;dlya-inostrancev;Для кого;Для иностранцев;exact_slug;1.0
+;3853;mini-gruppy;Мини-группы;490;True;317;mini-gruppy;Тип;Мини-группы;exact_slug;1.0
+;4;gastronomicheskie;Гастрономические;381;True;89;gastronomicheskie;Тематические;Гастрономические;exact_slug;1.0
+;4;gastronomicheskie;Гастрономические;381;True;14;gastronomicheskie;Формат;Гастрономические;exact_slug;1.0
+;4;gastronomicheskie;Гастрономические;381;True;213;gastronomicheskie;Гастрономические;Гастрономические;exact_slug;1.0
+;222;parki;Парки;366;True;163;parki;Природа и пейзажи;Парки;exact_slug;1.0
+;186;nochnye;Ночные;333;True;69;nochnye;Время дня и года;Ночные;exact_slug;1.0
+;676;naberezhnye;Набережные;332;True;97;naberezhnye;Тематические;Набережные;exact_slug;1.0
+;676;naberezhnye;Набережные;332;True;155;naberezhnye;Архитектура;Набережные;exact_slug;1.0
+;676;naberezhnye;Набережные;332;True;256;naberezhnye;Популярные места;Набережные;exact_slug;1.0
+;800;avtorskie;Авторские;321;True;8;avtorskie;Формат;Авторские;exact_slug;1.0
+;3958;gruppovye;Групповые туры;314;False;2;gruppovye;Тип;Групповые;exact_slug;1.0
+;757;transfer;Трансферы;314;True;23;transfer;Формат;Трансфер;exact_slug;1.0
+;757;transfer;Трансферы;314;True;49;transfer;На чём;Трансфер;exact_slug;1.0
+;757;transfer;Трансферы;314;True;5;transfer;Тип;Трансфер;exact_slug;1.0
+;4745;degustacii;Дегустации;312;True;215;s-degustaciej;Гастрономические;С дегустацией;similar_slug;0.8571
+;6;dlya-detej;Для детей;286;True;269;dlya-detej;Мастер-классы;Для детей;exact_slug;1.0
+;6;dlya-detej;Для детей;286;True;280;dlya-detej;Квесты;Для детей;exact_slug;1.0
+;10036;vechernie-tury;Вечерние туры;283;False;65;vechernie;Время дня и года;Вечерние;similar_slug;0.8182
+;4839;unikalnyj-opyt;Уникальный опыт;262;True;25;unikalnyj-opyt;Формат;Уникальный опыт;exact_slug;1.0
+;4839;unikalnyj-opyt;Уникальный опыт;262;True;84;unikalnyj-opyt;Под настроение;Уникальный опыт;exact_slug;1.0
+;123;usadby-i-dvorcy;Усадьбы и дворцы;242;True;117;usadby-i-dvorcy;Тематические;Усадьбы и дворцы;exact_slug;1.0
+;10038;odnodnevnye-tury;Однодневные туры;232;True;352;odnodnevnye;Выездные;Однодневные;similar_slug;0.8462
+;1192;razvlecheniya;Развлечения;226;True;21;razvlecheniya;Формат;Развлечения;exact_slug;1.0
+;890;neobychnye-doma;Необычные дома;223;True;98;neobychnye-doma;Тематические;Необычные дома;exact_slug;1.0
+;890;neobychnye-doma;Необычные дома;223;True;156;neobychnye-doma;Архитектура;Необычные дома;exact_slug;1.0
+;9341;ekspedicii;Экспедиции;208;True;333;ekspedicii;Тематические;Экспедиции;exact_slug;1.0
+;9341;ekspedicii;Экспедиции;208;True;323;ekspedicii;Формат;Экспедиции;exact_slug;1.0
+;3851;dlja-pensionerov;Для пенсионеров;201;True;34;dlya-pensionerov;Для кого;Для пенсионеров;similar_slug;0.9333
+;3852;dlja-studentov;Для студентов;201;True;35;dlya-studentov;Для кого;Для студентов;similar_slug;0.9231
+;9525;korporativnye-tury;Корпоративные туры;190;False;345;sportivnye-tury;Развлечения;Спортивные туры;similar_slug;0.8387
+;9525;korporativnye-tury;Корпоративные туры;190;False;325;sportivnye-tury;Формат;Спортивные туры;similar_slug;0.8387
+;752;na-avtobuse;На автобусе;166;True;41;na-avtobuse;На чём;На автобусе;exact_slug;1.0
+;3871;pochuvstvovat-sebya-mestnym;Пожить как местный;163;True;82;pochuvstvovat-sebya-mestnym;Под настроение;Почувствовать себя местным;exact_slug;1.0
+;12;fotosessii;Фотосессии;162;True;320;fotosessii;Формат;Фотосессии;exact_slug;1.0
+;12;fotosessii;Фотосессии;162;True;341;fotosessii;Развлечения;Фотосессии;exact_slug;1.0
+;759;master-classi;Мастер-классы;130;True;196;master-klassy;Развлечения;Мастер-классы;similar_slug;0.8333
+;759;master-classi;Мастер-классы;130;True;263;master-klassy;Производство;Мастер-классы;similar_slug;0.8333
+;759;master-classi;Мастер-классы;130;True;268;master-klassy;Мастер-классы;Мастер-классы;similar_slug;0.8333
+;759;master-classi;Мастер-классы;130;True;16;master-klassy;Формат;Мастер-классы;similar_slug;0.8333
+;10184;ekstremalnye-tury;Экстремальные туры;123;True;324;ekstremalnye-tury;Формат;Экстремальные туры;exact_slug;1.0
+;10184;ekstremalnye-tury;Экстремальные туры;123;True;344;ekstremalnye-tury;Развлечения;Экстремальные туры;exact_slug;1.0
+;758;kvesty;Квесты;123;True;200;kvesty;Развлечения;Квесты;exact_slug;1.0
+;7463;na-more;На море;81;False;53;na-meteore;На чём;На метеоре;similar_slug;0.8
+;3503;ekologicheskie;Экологические;71;False;334;ekologicheskie;Тематические;Экологические;exact_slug;1.0
+;3503;ekologicheskie;Экологические;71;False;337;ekologicheskie;Природа и пейзажи;Экологические;exact_slug;1.0
+;8;baryi-i-nochnaya-zhizn;По барам;68;True;10;bary-i-nochnaya-zhizn;Формат;Бары и ночная жизнь;normalized_slug;1.0
+;8;baryi-i-nochnaya-zhizn;По барам;68;True;193;bary-i-nochnaya-zhizn;Развлечения;Бары и ночная жизнь;normalized_slug;1.0
+;8;baryi-i-nochnaya-zhizn;По барам;68;True;88;bary-i-nochnaya-zhizn;Тематические;Бары и ночная жизнь;normalized_slug;1.0
+;8085;sportivnye-tury;Спортивные туры;59;False;345;sportivnye-tury;Развлечения;Спортивные туры;exact_slug;1.0
+;8085;sportivnye-tury;Спортивные туры;59;False;325;sportivnye-tury;Формат;Спортивные туры;exact_slug;1.0
+;1027;termalnye-istochniki;Термальные источники;59;False;306;termalnye-istochniki;Природа и пейзажи;Термальные источники;exact_slug;1.0
+;1027;termalnye-istochniki;Термальные источники;59;False;291;termalnye-istochniki;Под настроение;Термальные источники;exact_slug;1.0
+;1027;termalnye-istochniki;Термальные источники;59;False;300;termalnye-istochniki;Тематические;Термальные источники;exact_slug;1.0
+;894;smotrovye-ploshadki;Смотровые площадки;46;False;104;smotrovye-ploshchadki;Тематические;Смотровые площадки;similar_slug;0.9474
+;894;smotrovye-ploshadki;Смотровые площадки;46;False;165;smotrovye-ploshchadki;Природа и пейзажи;Смотровые площадки;similar_slug;0.9474
+;3918;bilety;Билеты;45;True;3;bilety;Тип;Билеты;exact_slug;1.0
+;721;rybalka;Рыбалка;43;False;244;rybalka;Водные развлечения;Рыбалка;exact_slug;1.0
+;721;rybalka;Рыбалка;43;False;253;rybalka;Животные;Рыбалка;exact_slug;1.0
+;721;rybalka;Рыбалка;43;False;175;rybalka;Природа и пейзажи;Рыбалка;exact_slug;1.0
+;112;novogodnie;Новогодние;42;False;75;novogodnie;Время дня и года;Новогодние;exact_slug;1.0
+;993;konnye-progulki;Конные прогулки;41;False;248;konnye-progulki;Животные;Конные прогулки;exact_slug;1.0
+;9242;motoprogulki;Мотопрогулки;31;True;329;motoprogulki;На чём;Мотопрогулки;exact_slug;1.0
+;9242;motoprogulki;Мотопрогулки;31;True;348;motoprogulki;Развлечения;Мотопрогулки;exact_slug;1.0
+;753;na-motorbike;На мотоцикле;31;True;46;na-motocikle;На чём;На мотоцикле;similar_slug;0.8182
+;3845;vystavki;Выставки;31;False;276;vystavki;Билеты;Выставки;exact_slug;1.0
+;3845;vystavki;Выставки;31;False;183;vystavki;Музеи;Выставки;exact_slug;1.0
+;3357;kvesty-dlya-detej;Квесты для детей;26;False;119;kvesty-dlya-detej;Тематические;Квесты для детей;exact_slug;1.0
+;3514;ozdorovitelnye;Оздоровительные;24;False;326;ozdorovitelnye;Формат;Оздоровительные;exact_slug;1.0
+;3514;ozdorovitelnye;Оздоровительные;24;False;331;ozdorovitelnye;Под настроение;Оздоровительные;exact_slug;1.0
+;7785;master-klassy-dlya-vzroslyh;Мастер-классы для взрослых;22;False;203;master-klassy-dlya-vzroslyh;Развлечения;Мастер-классы для взрослых;exact_slug;1.0
+;224;gory;Горы;21;False;171;gory;Природа и пейзажи;Горы;exact_slug;1.0
+;521;staryj-gorod;Старый город;20;False;146;staryj-gorod;Исторические;Старый город;exact_slug;1.0
+;521;staryj-gorod;Старый город;20;False;158;staryj-gorod;Архитектура;Старый город;exact_slug;1.0
+;521;staryj-gorod;Старый город;20;False;258;staryj-gorod;Популярные места;Старый город;exact_slug;1.0
+;3309;audiogidy;Аудиогиды;17;False;6;audiogidy;Тип;Аудиогиды;exact_slug;1.0
+;7849;kvesty-dlya-vzroslyh;Квесты для взрослых;17;False;112;kvesty-dlya-vzroslyh;Тематические;Квесты для взрослых;exact_slug;1.0
+;808;na-kvadrociklah;На квадроциклах;14;False;290;na-kvadrociklah;На чём;На квадроциклах;exact_slug;1.0
+;808;na-kvadrociklah;На квадроциклах;14;False;307;na-kvadrociklah;Развлечения;На квадроциклах;exact_slug;1.0
+;808;na-kvadrociklah;На квадроциклах;14;False;284;na-kvadrociklah;Формат;На квадроциклах;exact_slug;1.0
+;3261;palomnicheskie;Паломнические;13;False;340;palomnicheskie;Святые места;Паломнические;exact_slug;1.0
+;3261;palomnicheskie;Паломнические;13;False;335;palomnicheskie;Тематические;Паломнические;exact_slug;1.0
+;223;vodopady;Водопады;13;False;124;vodopady;Тематические;Водопады;exact_slug;1.0
+;223;vodopady;Водопады;13;False;169;vodopady;Природа и пейзажи;Водопады;exact_slug;1.0
+;843;dzhip-tury;Экскурсии и поездки на джипах;12;False;327;dzhip-tury;На чём;Джип-туры;exact_slug;1.0
+;843;dzhip-tury;Экскурсии и поездки на джипах;12;False;346;dzhip-tury;Развлечения;Джип-туры;exact_slug;1.0
+;3253;splavy;Сплавы;12;False;350;splavy;Водные развлечения;Сплавы;exact_slug;1.0
+;8763;meditacii;Медитации;11;False;332;meditacii;Под настроение;Медитации;exact_slug;1.0
+;110;misticheskie;Мистические;11;False;114;misticheskie;Тематические;Мистические;exact_slug;1.0
+;827;rafting;Рафтинг;11;False;285;rafting;Формат;Рафтинг;exact_slug;1.0
+;827;rafting;Рафтинг;11;False;293;rafting;Тематические;Рафтинг;exact_slug;1.0
+;827;rafting;Рафтинг;11;False;308;rafting;Развлечения;Рафтинг;exact_slug;1.0
+;827;rafting;Рафтинг;11;False;313;rafting;Водные развлечения;Рафтинг;exact_slug;1.0
+;1203;na-yahte;На яхте;10;False;239;na-yahte;Водные развлечения;На яхте;exact_slug;1.0
+;1203;na-yahte;На яхте;10;False;56;na-yahte;На чём;На яхте;exact_slug;1.0
+;656;morskie-progulki;Морские прогулки;9;False;351;morskie-progulki;Водные развлечения;Морские прогулки;exact_slug;1.0
+;885;na-katere;На катере;9;False;51;na-katere;На чём;На катере;exact_slug;1.0
+;885;na-katere;На катере;9;False;229;na-katere;Водные развлечения;На катере;exact_slug;1.0
+;1064;na-snegohodah;На снегоходах;9;False;63;na-snegohodah;На чём;На снегоходах;exact_slug;1.0
+;3295;na-vyhodnye;Туры на выходные;9;False;68;na-vyhodnye;Время дня и года;На выходные;exact_slug;1.0
+;882;pohody;Походы;9;False;302;pohody;Природа и пейзажи;Походы;exact_slug;1.0
+;882;pohody;Походы;9;False;294;pohody;Тематические;Походы;exact_slug;1.0
+;122;romanticheskie;Романтические;9;False;83;romanticheskie;Под настроение;Романтические;exact_slug;1.0
+;122;romanticheskie;Романтические;9;False;102;romanticheskie;Тематические;Романтические;exact_slug;1.0
+;3971;s-degustaciej;С дегустацией;9;False;215;s-degustaciej;Гастрономические;С дегустацией;exact_slug;1.0
+;2299;immersivnye;Иммерсивные;8;False;342;immersivnye;Развлечения;Иммерсивные;exact_slug;1.0
+;2299;immersivnye;Иммерсивные;8;False;321;immersivnye;Формат;Иммерсивные;exact_slug;1.0
+;7489;kulinarnye-master-klassy;Кулинарные мастер-классы;8;False;267;kulinarnye-master-klassy;Мастер-классы;Кулинарные мастер-классы;exact_slug;1.0
+;7489;kulinarnye-master-klassy;Кулинарные мастер-классы;8;False;214;kulinarnye-master-klassy;Гастрономические;Кулинарные мастер-классы;exact_slug;1.0
+;420;plyazhi;Пляжи;8;False;338;plyazhi;Природа и пейзажи;Пляжи;exact_slug;1.0
+;1239;shoping;Шопинг;8;False;27;shoping;Формат;Шопинг;exact_slug;1.0
+;1239;shoping;Шопинг;8;False;108;shoping;Тематические;Шопинг;exact_slug;1.0
+;1196;snorkling;Снорклинг;8;False;296;snorkeling;Тематические;Снорклинг;similar_slug;0.9474
+;1196;snorkling;Снорклинг;8;False;287;snorkeling;Формат;Снорклинг;similar_slug;0.9474
+;1196;snorkling;Снорклинг;8;False;315;snorkeling;Водные развлечения;Снорклинг;similar_slug;0.9474
+;1196;snorkling;Снорклинг;8;False;310;snorkeling;Развлечения;Снорклинг;similar_slug;0.9474
+;3372;v-gory;В горы;8;False;171;gory;Природа и пейзажи;Горы;similar_slug;0.8889
+;6802;avtobusnye;Автобусные;7;False;41;na-avtobuse;На чём;На автобусе;similar_slug;0.8
+;889;interaktivnye;Интерактивные;7;False;343;interaktivnye;Развлечения;Интерактивные;exact_slug;1.0
+;889;interaktivnye;Интерактивные;7;False;322;interaktivnye;Формат;Интерактивные;exact_slug;1.0
+;1039;kanatnaya-doroga;Канатная дорога;7;False;347;kanatnaya-doroga;Развлечения;Канатная дорога;exact_slug;1.0
+;1039;kanatnaya-doroga;Канатная дорога;7;False;328;kanatnaya-doroga;На чём;Канатная дорога;exact_slug;1.0
+;1158;kruiz;Круиз;7;False;236;kruizy;Водные развлечения;Круизы;similar_slug;0.9091
+;1158;kruiz;Круиз;7;False;55;kruizy;На чём;Круизы;similar_slug;0.9091
+;361;peshery;Пещеры;7;False;138;peshchery;Тематические;Пещеры;similar_slug;0.875
+;361;peshery;Пещеры;7;False;305;peshchery;Природа и пейзажи;Пещеры;similar_slug;0.875
+;874;s-degustaciej-vin;С дегустацией вин;7;False;215;s-degustaciej;Гастрономические;С дегустацией;similar_slug;0.8889
+;1194;safari;Сафари;7;False;297;safari;Тематические;Сафари;exact_slug;1.0
+;1194;safari;Сафари;7;False;303;safari;Природа и пейзажи;Сафари;exact_slug;1.0
+;1194;safari;Сафари;7;False;288;safari;Формат;Сафари;exact_slug;1.0
+;1194;safari;Сафари;7;False;311;safari;Развлечения;Сафари;exact_slug;1.0
+;1194;safari;Сафари;7;False;316;safari;Животные;Сафари;exact_slug;1.0
+;1005;tury;Туры;7;False;129;tyurmy;Тематические;Тюрьмы;similar_slug;0.8
+;830;vinodelni;Винодельни;7;False;349;vinodelni;Гастрономические;Винодельни;exact_slug;1.0
+;344;arheologicheskij-muzej;Археологический музей;5;False;249;zoologicheskij-muzej;Животные;Зоологический музей;similar_slug;0.85
+;66;metro;Метро;5;False;261;metro;Популярные места;Метро;exact_slug;1.0
+;66;metro;Метро;5;False;78;metro;Откуда начало;Метро;exact_slug;1.0
+;66;metro;Метро;5;False;57;metro;На чём;Метро;exact_slug;1.0
+;7628;na-sapah;На сапах;5;False;54;na-sapah;На чём;На сапах;exact_slug;1.0
+;3374;termalnye-istochniki-kyndyg;Термальные источники Кындыг;5;False;306;termalnye-istochniki;Природа и пейзажи;Термальные источники;similar_slug;0.8636
+;3374;termalnye-istochniki-kyndyg;Термальные источники Кындыг;5;False;291;termalnye-istochniki;Под настроение;Термальные источники;similar_slug;0.8636
+;3374;termalnye-istochniki-kyndyg;Термальные источники Кындыг;5;False;300;termalnye-istochniki;Тематические;Термальные источники;similar_slug;0.8636
+;1109;akvapark;Аквапарк;4;False;240;akvaparki;Водные развлечения;Аквапарки;similar_slug;0.9412
+;1283;iz-aeroporta;Из аэропорта;4;False;79;aeroport;Откуда начало;Аэропорт;similar_slug;0.8421
+;457;kanony;Каньоны;4;False;168;kanony;Природа и пейзажи;Каньоны;exact_slug;1.0
+;3433;na-fermu;На ферму;4;False;247;na-fermu;Животные;На ферму;exact_slug;1.0
+;3433;na-fermu;На ферму;4;False;161;na-fermu;Природа и пейзажи;На ферму;exact_slug;1.0
+;2279;na-samolete;На самолете;4;False;62;na-samolete;На чём;На самолёте;exact_slug;1.0
+;667;okeanarium;Океанариум;4;False;254;okeanarium;Животные;Океанариум;exact_slug;1.0
+;667;okeanarium;Океанариум;4;False;212;okeanarium;Развлечения;Океанариум;exact_slug;1.0
+;893;shokoladnaya-fabrika;Шоколадная фабрика;4;False;266;shokoladnye-fabriki;Производство;Шоколадные фабрики;similar_slug;0.8649
+;354;voennye;Военные;4;False;111;voennye;Тематические;Военные;exact_slug;1.0
+;354;voennye;Военные;4;False;147;voennye;Исторические;Военные;exact_slug;1.0
+;1146;zabroshennye-mesta;Заброшенные места;4;False;92;zabroshennye-mesta;Тематические;Заброшенные места;exact_slug;1.0
+;412;zoopark;Зоопарк;4;False;211;zoopark;Развлечения;Зоопарк;exact_slug;1.0
+;412;zoopark;Зоопарк;4;False;252;zoopark;Животные;Зоопарк;exact_slug;1.0
+;1388;fabriki-i-zavody;Фабрики и заводы;3;False;132;fabriki-i-zavody;Тематические;Фабрики и заводы;exact_slug;1.0
+;245;forty;Форты;3;False;148;forty;Исторические;Форты;exact_slug;1.0
+;245;forty;Форты;3;False;116;forty;Тематические;Форты;exact_slug;1.0
+;7702;kanon-tazy;Каньон Тазы;3;False;168;kanony;Природа и пейзажи;Каньоны;similar_slug;0.8
+;7777;master-klassy-po-risovaniyu;Мастер-классы по рисованию;3;False;272;master-klass-po-risovaniyu;Мастер-классы;Мастер-класс по рисованию;similar_slug;0.9778
+;424;ostrova;Острова;3;False;133;na-ostrova;Тематические;На острова;similar_slug;0.875
+;424;ostrova;Острова;3;False;241;na-ostrova;Водные развлечения;На острова;similar_slug;0.875
+;424;ostrova;Острова;3;False;170;na-ostrova;Природа и пейзажи;На острова;similar_slug;0.875
+;1234;ozera;Озёра;3;False;167;ozera;Природа и пейзажи;Озёра;exact_slug;1.0
+;2840;palomnicheskie-tury;Паломнические туры;3;False;340;palomnicheskie;Святые места;Паломнические;similar_slug;0.875
+;2840;palomnicheskie-tury;Паломнические туры;3;False;335;palomnicheskie;Тематические;Паломнические;similar_slug;0.875
+;915;pivovarni;Пивоварни;3;False;137;pivovarni;Тематические;Пивоварни;exact_slug;1.0
+;915;pivovarni;Пивоварни;3;False;265;pivovarni;Производство;Пивоварни;exact_slug;1.0
+;915;pivovarni;Пивоварни;3;False;216;pivovarni;Гастрономические;Пивоварни;exact_slug;1.0
+;2324;pravoslavnye;Православные;3;False;118;pravoslavnye;Тематические;Православные;exact_slug;1.0
+;372;slony;Слоны;3;False;251;slony;Животные;Слоны;exact_slug;1.0
+;168;sobory-i-hramy;Соборы и храмы;3;False;157;sobory-i-hramy;Архитектура;Соборы и храмы;exact_slug;1.0
+;168;sobory-i-hramy;Соборы и храмы;3;False;177;sobory-i-hramy;Святые места;Соборы и храмы;exact_slug;1.0
+;168;sobory-i-hramy;Соборы и храмы;3;False;105;sobory-i-hramy;Тематические;Соборы и храмы;exact_slug;1.0
+;484;svyatye-mesta;Святые места;3;False;103;svyatye-mesta;Тематические;Святые места;exact_slug;1.0

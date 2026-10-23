@@ -1,0 +1,86 @@
+Loading cities, guides and countries from Supabase...
+IMPORT: photos only, cities=6, workers=1, limit=100
+Refresh started_at=2026-10-19T12:13:50.325368+00:00; already completed=0; remaining=6
+Rome: page=1, fetched=100, imported=0, tags=0, photos=499, next=yes
+Rome: page=2, fetched=100, imported=0, tags=0, photos=500, next=yes
+Rome: page=3, fetched=100, imported=0, tags=0, photos=500, next=yes
+Rome: page=4, fetched=100, imported=0, tags=0, photos=500, next=yes
+Rome: page=5, fetched=84, imported=0, tags=0, photos=408, next=no
+Rome: done (progress=1/6, remaining=5, errors=0)
+Saint_Petersburg: page=1, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=2, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=3, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=4, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=5, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=6, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=7, fetched=100, imported=0, tags=0, photos=499, next=yes
+Saint_Petersburg: page=8, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=9, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=10, fetched=100, imported=0, tags=0, photos=485, next=yes
+Saint_Petersburg: page=11, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=12, fetched=100, imported=0, tags=0, photos=494, next=yes
+Saint_Petersburg: page=13, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=14, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=15, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=16, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=17, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=18, fetched=100, imported=0, tags=0, photos=490, next=yes
+Saint_Petersburg: page=19, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=20, fetched=100, imported=0, tags=0, photos=495, next=yes
+Saint_Petersburg: page=21, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=22, fetched=100, imported=0, tags=0, photos=494, next=yes
+Saint_Petersburg: page=23, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=24, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=25, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=26, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=27, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=28, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=29, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=30, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=31, fetched=100, imported=0, tags=0, photos=493, next=yes
+Saint_Petersburg: page=32, fetched=100, imported=0, tags=0, photos=500, next=yes
+Saint_Petersburg: page=33, fetched=36, imported=0, tags=0, photos=177, next=no
+Saint_Petersburg: ERROR: Saint_Petersburg: incomplete/unstable snapshot; ID sets differ between full reads (progress=2/6, remaining=4, errors=1)
+Moscow: page=1, fetched=100, imported=0, tags=0, photos=499, next=yes
+Moscow: page=2, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=3, fetched=100, imported=0, tags=0, photos=495, next=yes
+Moscow: page=4, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=5, fetched=100, imported=0, tags=0, photos=499, next=yes
+Moscow: page=6, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=7, fetched=100, imported=0, tags=0, photos=499, next=yes
+Moscow: page=8, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=9, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=10, fetched=100, imported=0, tags=0, photos=495, next=yes
+Moscow: page=11, fetched=100, imported=0, tags=0, photos=498, next=yes
+Moscow: page=12, fetched=100, imported=0, tags=0, photos=499, next=yes
+Moscow: page=13, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=14, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=15, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=16, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=17, fetched=100, imported=0, tags=0, photos=498, next=yes
+Moscow: page=18, fetched=100, imported=0, tags=0, photos=499, next=yes
+Moscow: page=19, fetched=100, imported=0, tags=0, photos=498, next=yes
+Moscow: page=20, fetched=100, imported=0, tags=0, photos=500, next=yes
+Moscow: page=21, fetched=100, imported=0, tags=0, photos=497, next=yes
+Moscow: page=22, fetched=73, imported=0, tags=0, photos=347, next=no
+Moscow: ERROR: Moscow: incomplete/unstable snapshot; ID sets differ between full reads (progress=3/6, remaining=3, errors=2)
+Nizhny_Novgorod: page=1, fetched=100, imported=0, tags=0, photos=500, next=yes
+Nizhny_Novgorod: page=2, fetched=100, imported=0, tags=0, photos=499, next=yes
+Nizhny_Novgorod: page=3, fetched=100, imported=0, tags=0, photos=500, next=yes
+Nizhny_Novgorod: page=4, fetched=100, imported=0, tags=0, photos=495, next=yes
+Nizhny_Novgorod: page=5, fetched=100, imported=0, tags=0, photos=500, next=yes
+Nizhny_Novgorod: page=6, fetched=84, imported=0, tags=0, photos=418, next=no
+Nizhny_Novgorod: ERROR: Nizhny_Novgorod: incomplete/unstable snapshot; ID sets differ between full reads (progress=4/6, remaining=2, errors=3)
+Alanya: page=1, fetched=100, imported=0, tags=0, photos=500, next=yes
+Alanya: page=2, fetched=100, imported=0, tags=0, photos=495, next=yes
+Alanya: page=3, fetched=3, imported=0, tags=0, photos=15, next=no
+Alanya: ERROR: Alanya: incomplete/unstable snapshot; ID sets differ between full reads (progress=5/6, remaining=1, errors=4)
+Yerevan: page=1, fetched=100, imported=0, tags=0, photos=500, next=yes
+Yerevan: page=2, fetched=100, imported=0, tags=0, photos=500, next=yes
+Yerevan: page=3, fetched=100, imported=0, tags=0, photos=500, next=yes
+Yerevan: page=4, fetched=100, imported=0, tags=0, photos=500, next=yes
+Yerevan: page=5, fetched=100, imported=0, tags=0, photos=500, next=yes
+Yerevan: page=6, fetched=100, imported=0, tags=0, photos=500, next=no
+Yerevan: skipped photos for 4 missing experiences
+Yerevan: done (progress=6/6, remaining=0, errors=4)
+Done: pages=11, imported=1084, tags=0, photos=5407, city_errors=4
